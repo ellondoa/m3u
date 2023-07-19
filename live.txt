@@ -1,6 +1,13 @@
 更新至0716,#genre#
 熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
 
+TVBS NEWS LIVE,http://PHP-TVlive.61073736.repl.co/youtube.php?id=m_dhMSvUCIc
+TVBS 55頻道,http://PHP-TVlive.61073736.repl.co/youtube.php?id=2mCSYvcfhtc
+中天新闻,http://PHP-TVlive.61073736.repl.co/youtube.php?id=oIgbl7t0S_w
+中天新闻2台,http://PHP-TVlive.61073736.repl.co/youtube.php?id=WPfPjbOLNfE
+寰宇新聞台,http://PHP-TVlive.61073736.repl.co/youtube.php?id=B7Zp3d6xXWw
+寰宇新聞台灣台,http://PHP-TVlive.61073736.repl.co/youtube.php?id=UcTIv4ZaE5Y
+
 BestTV 8M,#genre#
 CCTV1 8M,https://php-tvlive.61073736.repl.co/bestv.php?id=cctv1hd8m/8000000
 CCTV2 8M,https://php-tvlive.61073736.repl.co/bestv.php?id=cctv2hd8m/8000000
