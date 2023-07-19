@@ -2,8 +2,8 @@
 熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
 
 TVBS NEWS LIVE,http://PHP-TVlive.61073736.repl.co/youtube.php?id=m_dhMSvUCIc
-TVBS 55頻道,http://PHP-TVlive.61073736.repl.co/youtube.php?id=2mCSYvcfhtc
-中天新闻,http://PHP-TVlive.61073736.repl.co/youtube.php?id=oIgbl7t0S_w
+TVBS 55頻道,http://PHP-TVlive.61073736.repl.co/allinone.php?id=2mCSYvcfhtc
+中天新闻,http://PHP-TVlive.61073736.repl.co/allinone.php?id=oIgbl7t0S_w
 中天新闻2台,http://PHP-TVlive.61073736.repl.co/youtube.php?id=WPfPjbOLNfE
 寰宇新聞台,http://PHP-TVlive.61073736.repl.co/youtube.php?id=B7Zp3d6xXWw
 寰宇新聞台灣台,http://PHP-TVlive.61073736.repl.co/youtube.php?id=UcTIv4ZaE5Y
