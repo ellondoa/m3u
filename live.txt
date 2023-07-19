@@ -1,6 +1,35 @@
 更新至0716,#genre#
 熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
 
+stream,#genre#
+TVB 星河,http://sc2022.stream-link.org/tv2306.php?id=c02
+华语剧台,http://sc2022.stream-link.org/tv2306.php?id=c01
+无线财经,http://sc2022.stream-link.org/tv2306.php?id=h05
+有线财经,http://sc2022.stream-link.org/tv2306.php?id=h09
+HoyTV,http://sc2022.stream-link.org/tv2306.php?id=h10
+RTHK32,http://sc2022.stream-link.org/tv2306.php?id=h07
+天映频道,http://sc2022.stream-link.org/tv2306.php?id=c03
+民视第一,http://sc2022.stream-link.org/tv2306.php?id=t18
+民视台湾,http://sc2022.stream-link.org/tv2306.php?id=t19
+民视综艺,http://sc2022.stream-link.org/tv2306.php?id=t20
+民视影剧,http://sc2022.stream-link.org/tv2306.php?id=t21
+民视旅游,http://sc2022.stream-link.org/tv2306.php?id=t22
+台视新闻,http://sc2022.stream-link.org/tv2306.php?id=t12
+中视新闻,http://sc2022.stream-link.org/tv2306.php?id=t05
+华视新闻,http://sc2022.stream-link.org/tv2306.php?id=t04
+TVBS,http://sc2022.stream-link.org/tv2306.php?id=t14
+中天新闻,http://sc2022.stream-link.org/tv2306.php?id=t03
+东森新闻,http://sc2022.stream-link.org/tv2306.php?id=t01
+东森财经,http://sc2022.stream-link.org/tv2306.php?id=t02
+东森幼幼,http://sc2022.stream-link.org/tv2306.php?id=t26
+寰宇新闻,http://sc2022.stream-link.org/tv2306.php?id=t07
+三立新闻,http://sc2022.stream-link.org/tv2306.php?id=t10
+三立新闻+,http://sc2022.stream-link.org/tv2306.php?id=t11
+三立财经,http://sc2022.stream-link.org/tv2306.php?id=t09
+三立台湾,http://sc2022.stream-link.org/tv2306.php?id=t23
+三立都会,http://sc2022.stream-link.org/tv2306.php?id=t24
+中天综合,http://sc2022.stream-link.org/tv2306.php?id=t15
+
 
 BestTV 8M,#genre#
 CCTV1 8M,https://php-tvlive.61073736.repl.co/bestv.php?id=cctv1hd8m/8000000
