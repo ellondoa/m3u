@@ -1,5 +1,6 @@
 更新至0716,#genre#
 熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
+中天新闻1,https://tv-live.61073736.repl.co/youtube/oIgbl7t0S_w
 
 台湾,#genre#
 民視第一台,P2p://198.255.74.87:12297/1d3cfea90002373f00338ddf3927edfe
