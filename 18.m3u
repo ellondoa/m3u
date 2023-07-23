@@ -1,4 +1,12 @@
-﻿#EXTM3U
+#EXTM3U
+#EXTINF:-1 group-title="玩偶",衝浪少女的碎碎念
+https://j9.avstatic.com/contents/videos/35000/35874/index.m3u8
+#EXTINF:-1 group-title="玩偶",风花雪「第一视角」
+https://j9.avstatic.com/contents/videos/30000/30135/index.m3u8
+#EXTINF:-1 group-title="玩偶",风花雪「乐爱」
+https://j9.avstatic.com/contents/videos/30000/30143/index.m3u8
+#EXTINF:-1 group-title="玩偶",风花雪「指爱」
+https://j9.avstatic.com/contents/videos/30000/30128/index.m3u8
 #EXTINF:-1 group-title="玩偶",情侣游戏 特别篇「Couple Games Special」
 https://j9.avstatic.com/contents/videos/28000/28822/index.m3u8
 #EXTINF:-1 group-title="玩偶",玩偶•橘子猫「合作集」
@@ -445,6 +453,8 @@ http://de1cdn.plusx.tv:8880/352/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 http://de1cdn.plusx.tv:8880/353/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 #EXTINF:-1 group-title="欧美",PRIVETP TV
 http://de1cdn.plusx.tv:8880/356/mono.m3u8?token=b457d9d9a2dd39e2fa3333
+#EXTINF:-1 group-title="欧美",REDLIGHT HD
+http://de1cdn.plusx.tv:8880/358/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 #EXTINF:-1 group-title="欧美",DORCEL TV
 http://de1cdn.plusx.tv:8880/359/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 #EXTINF:-1 group-title="欧美",Rouge TV
@@ -461,8 +471,6 @@ http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6167/index.m3u8
 http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6168/index.m3u8
 #EXTINF:-1 group-title="欧美",AST TV
 http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6169/index.m3u8
-#EXTINF:-1 group-title="欧美",AST TV 2
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6170/index.m3u8
 #EXTINF:-1 group-title="欧美",Babes HD
 http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6171/index.m3u8
 #EXTINF:-1 group-title="欧美",Balkan Erotic
@@ -477,8 +485,6 @@ http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6178/index.m3u8
 http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6181/index.m3u8
 #EXTINF:-1 group-title="欧美",Brazzers HD
 http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6182/index.m3u8
-#EXTINF:-1 group-title="欧美",Brunette Adult TV
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6183/index.m3u8
 #EXTINF:-1 group-title="欧美",cento x cento
 http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6184/index.m3u8
 #EXTINF:-1 group-title="欧美",Cherry Pimps
@@ -509,8 +515,6 @@ http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6195/index.m3u8
 http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6196/index.m3u8
 #EXTINF:-1 group-title="欧美",Dorcel Club
 http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6197/index.m3u8
-#EXTINF:-1 group-title="欧美",Dorcel HD orig
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/9064/index.m3u8
 #EXTINF:-1 group-title="欧美",Dorcel TV HD
 http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/245/index.m3u8
 #EXTINF:-1 group-title="欧美",Emanuelle HD
@@ -615,8 +619,6 @@ http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/9066/index.m3u8
 http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6248/index.m3u8
 #EXTINF:-1 group-title="欧美",RK TV
 http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6249/index.m3u8
-#EXTINF:-1 group-title="欧美",Russian Adult TV
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6251/index.m3u8
 #EXTINF:-1 group-title="欧美",SCT
 http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/876/index.m3u8
 #EXTINF:-1 group-title="欧美",SINematica
@@ -7879,7 +7881,7 @@ https://edge-hls.doppiocdn.com/hls/19477526/master/19477526.m3u8
 https://edge-hls.doppiocdn.com/hls/19473/master/19473.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/6/3/b/63b6d57dfdaec68ef3e2cd17fe2eb637-thumb-big" group-title="直播",emlana
 https://edge-hls.doppiocdn.com/hls/193431/master/193431.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/4/1/3/4138b1fbb6560501915d53a51b00dec7-thumb-big" group-title="直播",Shaday_sm1th
+#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/4/1/3/4138b1fbb6560501915d53a51b00dec7-thumb-big" group-title="直播",Sh1 天之前_sm1th
 https://edge-hls.doppiocdn.com/hls/19302073/master/19302073.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/c/3/7/c37c49f237a55b7ecf6cae577ab1e6c4-thumb-big" group-title="直播",melodi73
 https://edge-hls.doppiocdn.com/hls/19250231/master/19250231.m3u8
@@ -7977,7 +7979,7 @@ https://edge-hls.doppiocdn.com/hls/15288616/master/15288616.m3u8
 https://edge-hls.doppiocdn.com/hls/15287244/master/15287244.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/5/b/5/5b50448b4b5c072ed693fa26bc05f96d-thumb-big" group-title="直播",Astunner
 https://edge-hls.doppiocdn.com/hls/15021203/master/15021203.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/9/c/0/9c000d98de459e71fa407f6d1dc21b5d-thumb-big" group-title="直播",RaeleenMay
+#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/9/c/0/9c000d98de459e71fa407f6d1dc21b5d-thumb-big" group-title="直播",Raeleen5月
 https://edge-hls.doppiocdn.com/hls/14975399/master/14975399.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/d/9/9/d99e018fad077ee10e12927d981f6aa4-thumb-big" group-title="直播",KAROLCANDY
 https://edge-hls.doppiocdn.com/hls/14946156/master/14946156.m3u8
@@ -8029,53 +8031,53 @@ https://edge-hls.doppiocdn.com/hls/12794435/master/12794435.m3u8
 https://edge-hls.doppiocdn.com/hls/12704243/master/12704243.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/3/6/1/3612e46a5a62b149c05d2bc8f6309456-thumb-big" group-title="直播",sonyx
 https://edge-hls.doppiocdn.com/hls/12468487/master/12468487.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/7/0/3/703cb0ce5290285321403bb0ea9ab02a-thumb-big" group-title="直播"，monellona
+#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/7/0/3/703cb0ce5290285321403bb0ea9ab02a-thumb-big" group-title="直播",monellona
 https://edge-hls.doppiocdn.com/hls/12108409/master/12108409.m3u8
-#EXTINF:-1 tvg-logo="https://edge-hlsedge-hlscdn.strpst.com/cdn/previews/8/b/4/8b464b32cf67e7e48dc6be0a5954b155-thumb-big" group-title="直播"，BbwSQUIRTERxx
+#EXTINF:-1 tvg-logo="https://edge-hlsedge-hlscdn.strpst.com/cdn/previews/8/b/4/8b464b32cf67e7e48dc6be0a5954b155-thumb-big" group-title="直播",BbwSQUIRTERxx
 https://edge-hls.doppiocdn.com/hls/1210706/master/1210706.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/7/7/5/7756957e04081b220b1943872419ac63-thumb-big" group-title="直播"，lindaesmeralda
+#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/7/7/5/7756957e04081b220b1943872419ac63-thumb-big" group-title="直播",lindaesmeralda
 https://edge-hls.doppiocdn.com/hls/12086023/master/12086023.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/3/3/b/33b9475b50af47d7c82079fbaf8c6b84-thumb-big" group-title="直播"，kaitlinfields
+#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/3/3/b/33b9475b50af47d7c82079fbaf8c6b84-thumb-big" group-title="直播",kaitlinfields
 https://edge-hls.doppiocdn.com/hls/11850702/master/11850702.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/1/f/4/1f40a5bdff9ad07315a4db2b8f2a87c8-thumb-big" group-title="直播"，canelasquirt
+#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/1/f/4/1f40a5bdff9ad07315a4db2b8f2a87c8-thumb-big" group-title="直播",canelasquirt
 https://edge-hls.doppiocdn.com/hls/1182565/master/1182565.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/9/3/b/93b68c264f62a8935ffb3a316b77d1ac-thumb-big" group-title="直播"，ladyaverry11
+#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/9/3/b/93b68c264f62a8935ffb3a316b77d1ac-thumb-big" group-title="直播",ladyaverry11
 https://edge-hls.doppiocdn.com/hls/1174779/master/1174779.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/5/0/d/50d860bede7ec7d39dd54dc4f024c070-thumb-big" group-title="直播",nene_belle
 https://edge-hls.doppiocdn.com/hls/11650424/master/11650424.m3u8
-#EXTINF:-1 tvg-logo="https://edge-hlsedge-hlscdn.strpst.com/cdn/previews/e/f/3/ef31345227f0e3a2afdeac9eb05496a9-thumb-big" group-title="直播"，HollyGrier
+#EXTINF:-1 tvg-logo="https://edge-hlsedge-hlscdn.strpst.com/cdn/previews/e/f/3/ef31345227f0e3a2afdeac9eb05496a9-thumb-big" group-title="直播",HollyGrier
 https://edge-hls.doppiocdn.com/hls/1143195/master/1143195.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/5/9/d/59dcdd4ba46db008be4c5dc978077363-thumb-big" group-title="直播"，MerryWin
+#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/5/9/d/59dcdd4ba46db008be4c5dc978077363-thumb-big" group-title="直播",MerryWin
 https://edge-hls.doppiocdn.com/hls/11382795/master/11382795.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/3/e/e/3eef5f599cec7ddb995f812d4678705e-thumb-big" group-title="直播"，jennystyle
+#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/3/e/e/3eef5f599cec7ddb995f812d4678705e-thumb-big" group-title="直播",jennystyle
 https://edge-hls.doppiocdn.com/hls/11263/master/11263.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/3/9/b/39b12303b4d15f79d1d1f03b43cd4c47-thumb-big" group-title="直播"，DirtyBIianca
+#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/3/9/b/39b12303b4d15f79d1d1f03b43cd4c47-thumb-big" group-title="直播",DirtyBIianca
 https://edge-hls.doppiocdn.com/hls/1121288/master/1121288.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/7/2/6/72689a60f858aa7ca6335dab5656108c-thumb-big" group-title="直播",Allison_ParkerX
 https://edge-hls.doppiocdn.com/hls/11156677/master/11156677.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/9/b/9/9b93873a09e90d9dfea87c3b9126f481-thumb-big" group-title="直播",dulcey_john
 https://edge-hls.doppiocdn.com/hls/11095991/master/11095991.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/b/c/d/bcd8bd668ba79f1efdee52d3cfdbd7d2-thumb-big" group-title="直播"，AirFixFlex
+#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/b/c/d/bcd8bd668ba79f1efdee52d3cfdbd7d2-thumb-big" group-title="直播",AirFixFlex
 https://edge-hls.doppiocdn.com/hls/1091412/master/1091412.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/f/9/8/f98e5b12ef9ee5fd16d1515131b05ece-thumb-big" group-title="直播"，JessieJaye
+#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/f/9/8/f98e5b12ef9ee5fd16d1515131b05ece-thumb-big" group-title="直播",JessieJaye
 https://edge-hls.doppiocdn.com/hls/10866495/master/10866495.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/4/3/0/4300b205a836a8f87383445e87a6c4ac-thumb-big" group-title="直播"，A2ure
+#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/4/3/0/4300b205a836a8f87383445e87a6c4ac-thumb-big" group-title="直播",A2ure
 https://edge-hls.doppiocdn.com/hls/10840481/master/10840481.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/a/6/c/a6cd0c04464895e56de23c8422b9ed98-thumb-big" group-title="直播"，kissofgoddess
+#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/a/6/c/a6cd0c04464895e56de23c8422b9ed98-thumb-big" group-title="直播",kissofgoddess
 https://edge-hls.doppiocdn.com/hls/10759872/master/10759872.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/3/9/f/39f27fbcc8668dc412c76e6d98b48085-thumb-big" group-title="直播"，pamela-wells
+#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/3/9/f/39f27fbcc8668dc412c76e6d98b48085-thumb-big" group-title="直播",pamela-wells
 https://edge-hls.doppiocdn.com/hls/10635449/master/10635449.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/5/d/0/5d0305215b74f578f044fc35ca2d359c-thumb-big" group-title="直播"，natashasweet
+#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/5/d/0/5d0305215b74f578f044fc35ca2d359c-thumb-big" group-title="直播",natashasweet
 https://edge-hls.doppiocdn.com/hls/10605826/master/10605826.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/5/7/0/570c630fba3d21d6b7850dbc1d906068-thumb-big" group-title="直播",Web_Lady
 https://edge-hls.doppiocdn.com/hls/10399612/master/10399612.m3u8
-#EXTINF:-1 tvg-logo="https://edge-hlsedge-hlscdn.strpst.com/cdn/previews/8/9/6/896c998836864f22afb3c19ac7fb8334-thumb-big" group-title="直播"，CarrieLoveX
+#EXTINF:-1 tvg-logo="https://edge-hlsedge-hlscdn.strpst.com/cdn/previews/8/9/6/896c998836864f22afb3c19ac7fb8334-thumb-big" group-title="直播",CarrieLoveX
 https://edge-hls.doppiocdn.com/hls/10346230/master/10346230.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/b/b/0/bb0e8fe9f0510a3eef7d3eb8846156a9-thumb-big" group-title="直播",abby_taylor
 https://edge-hls.doppiocdn.com/hls/10329475/master/10329475.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/3/8/f/38fe5f673749aaf562c4643f5a8dc367-thumb-big" group-title="直播"，martachatte
+#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/3/8/f/38fe5f673749aaf562c4643f5a8dc367-thumb-big" group-title="直播",martachatte
 https://edge-hls.doppiocdn.com/hls/10249344/master/10249344.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/e/2/7/e273d9abd94c4bb326894a50d33a0ffa-thumb-big" group-title="直播"，KerryBlareX
+#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/e/2/7/e273d9abd94c4bb326894a50d33a0ffa-thumb-big" group-title="直播",KerryBlareX
 https://edge-hls.doppiocdn.com/hls/10217367/master/10217367.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/9/f/7/9f748ad5830bc864b4a5628266fbfe4c-thumb-big" group-title="直播"，KonnySumer
+#EXTINF:-1 tvg-logo="https://cdn.strpst.com/cdn/previews/9/f/7/9f748ad5830bc864b4a5628266fbfe4c-thumb-big" group-title="直播",KonnySumer
 https://edge-hls.doppiocdn.com/hls/10048663/master/10048663.m3u8
