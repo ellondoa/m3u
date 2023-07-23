@@ -1,214 +1,216 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,http://epg.51zmt.top:8000/e.xml.gz,https://epg.112114.xyz/pp.xml,https://ghproxy.com/https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/guide.xml,https://ghproxy.com/https://raw.githubusercontent.com/frankwuzp/iptv-cn/main/guide.xml,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml,https://iptv-org.github.io/epg/guides/hk-zh/nowplayer.now.com.epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-#EXTINF:-1 group-title="虎牙电影",星爷
-https://golang.61073736.repl.co/huya/11342412
-#EXTINF:-1 group-title="虎牙电影",星爷
-http://mmitv.top/pltv/huya.php?id=11342412
-#EXTINF:-1 group-title="虎牙电影",英叔
-http://mmitv.top/pltv/huya.php?id=11342421
-#EXTINF:-1 group-title="虎牙电影",发哥
-http://mmitv.top/pltv/huya.php?id=11342387
-#EXTINF:-1 group-title="虎牙电影",成龙
-http://mmitv.top/pltv/huya.php?id=11342386
-#EXTINF:-1 group-title="虎牙电影",王晶
-http://mmitv.top/pltv/huya.php?id=11602058
-#EXTINF:-1 group-title="虎牙电影",沈腾
-http://mmitv.top/pltv/huya.php?id=11601968
-#EXTINF:-1 group-title="虎牙电影",黄渤
-http://mmitv.top/pltv/huya.php?id=11352876
-#EXTINF:-1 group-title="虎牙电影",强森
-http://mmitv.top/pltv/huya.php?id=21059581
-#EXTINF:-1 group-title="虎牙电影",漫威
-http://mmitv.top/pltv/huya.php?id=11602034
-#EXTINF:-1 group-title="虎牙电影",宇宙
-http://mmitv.top/pltv/huya.php?id=11342428
-#EXTINF:-1 group-title="虎牙电影",怪兽
-http://mmitv.top/pltv/huya.php?id=21059577
-#EXTINF:-1 group-title="虎牙电影",武侠
-http://mmitv.top/pltv/huya.php?id=11342427
-#EXTINF:-1 group-title="虎牙电影",警匪
-http://mmitv.top/pltv/huya.php?id=11352886
-#EXTINF:-1 group-title="虎牙电影",罪犯
-http://mmitv.top/pltv/huya.php?id=11352962
-#EXTINF:-1 group-title="虎牙电影",枪战
-http://mmitv.top/pltv/huya.php?id=21059579
-#EXTINF:-1 group-title="虎牙电影",海盗
-http://mmitv.top/pltv/huya.php?id=21059595
-#EXTINF:-1 group-title="虎牙电影",赛车
-http://mmitv.top/pltv/huya.php?id=11279247
-#EXTINF:-1 group-title="虎牙电影",推荐
-http://mmitv.top/pltv/huya.php?id=11602041
-#EXTINF:-1 group-title="虎牙电影",救援
-http://mmitv.top/pltv/huya.php?id=21059594
-#EXTINF:-1 group-title="虎牙电影",热血
-http://mmitv.top/pltv/huya.php?id=11352934
-#EXTINF:-1 group-title="虎牙电影",盗墓
-http://mmitv.top/pltv/huya.php?id=21059552
-#EXTINF:-1 group-title="虎牙电影",贺岁
-http://mmitv.top/pltv/huya.php?id=11601971
-#EXTINF:-1 group-title="虎牙电影",玄幻
-http://mmitv.top/pltv/huya.php?id=11342414
-#EXTINF:-1 group-title="虎牙电影",谍战
-http://mmitv.top/pltv/huya.php?id=21059585
-#EXTINF:-1 group-title="虎牙电影",战争
-http://mmitv.top/pltv/huya.php?id=21059592
-#EXTINF:-1 group-title="虎牙电影",喜剧
-http://mmitv.top/pltv/huya.php?id=11352877
-#EXTINF:-1 group-title="虎牙电影",港片
-http://mmitv.top/pltv/huya.php?id=11602043
-#EXTINF:-1 group-title="虎牙电影",国产
-http://mmitv.top/pltv/huya.php?id=11352973
-#EXTINF:-1 group-title="虎牙电影",周星星
-http://mmitv.top/pltv/huya.php?id=11336587
-#EXTINF:-1 group-title="虎牙电影",李连杰
-http://mmitv.top/pltv/huya.php?id=11342390
-#EXTINF:-1 group-title="虎牙电影",洪金宝
-http://mmitv.top/pltv/huya.php?id=11279251
-#EXTINF:-1 group-title="虎牙电影",梁家辉
-http://mmitv.top/pltv/huya.php?id=11342429
-#EXTINF:-1 group-title="虎牙电影",许冠英
-http://mmitv.top/pltv/huya.php?id=11601972
-#EXTINF:-1 group-title="虎牙电影",刘德华
-http://mmitv.top/pltv/huya.php?id=11342424
-#EXTINF:-1 group-title="",冯小刚
-http://mmitv.top/pltv/huya.php?id=11352906
-#EXTINF:-1 group-title="",邱淑贞
-http://mmitv.top/pltv/huya.php?id=11352949
-#EXTINF:-1 group-title="",五福星
-http://mmitv.top/pltv/huya.php?id=11282233
-#EXTINF:-1 group-title="",斯坦森
-http://mmitv.top/pltv/huya.php?id=21059588
-#EXTINF:-1 group-title="",小鬼头
-http://mmitv.top/pltv/huya.php?id=11352963
-#EXTINF:-1 group-title="",八点档
-http://mmitv.top/pltv/huya.php?id=880261
-#EXTINF:-1 group-title="",蜘蛛侠
-http://mmitv.top/pltv/huya.php?id=21059599
-#EXTINF:-1 group-title="",贺岁片
-http://mmitv.top/pltv/huya.php?id=11601986
-#EXTINF:-1 group-title="",功夫片
-http://mmitv.top/pltv/huya.php?id=11352941
-#EXTINF:-1 group-title="",黑帮片
-http://mmitv.top/pltv/huya.php?id=11336719
-#EXTINF:-1 group-title="",丧尸片
-http://mmitv.top/pltv/huya.php?id=21059578
-#EXTINF:-1 group-title="",灾难片
-http://mmitv.top/pltv/huya.php?id=11602075
-#EXTINF:-1 group-title="",谍战片
-http://mmitv.top/pltv/huya.php?id=21059587
-#EXTINF:-1 group-title="",战争片
-http://mmitv.top/pltv/huya.php?id=21059574
-#EXTINF:-1 group-title="",犯罪片
-http://mmitv.top/pltv/huya.php?id=11352974
-#EXTINF:-1 group-title="",古装片
-http://mmitv.top/pltv/huya.php?id=11336590
-#EXTINF:-1 group-title="",高分动作
-http://mmitv.top/pltv/huya.php?id=11352884
-#EXTINF:-1 group-title="",动作电影
-http://mmitv.top/pltv/huya.php?id=11602077
-#EXTINF:-1 group-title="",搞笑喜剧
-http://mmitv.top/pltv/huya.php?id=11342423
-#EXTINF:-1 group-title="",喜剧专场
-http://mmitv.top/pltv/huya.php?id=11602044
-#EXTINF:-1 group-title="",欢笑影院
-http://mmitv.top/pltv/huya.php?id=11352894
-#EXTINF:-1 group-title="",不挤影院
-http://mmitv.top/pltv/huya.php?id=11352897
-#EXTINF:-1 group-title="",国产悬疑
-http://mmitv.top/pltv/huya.php?id=11342395
-#EXTINF:-1 group-title="",快意江湖
-http://mmitv.top/pltv/huya.php?id=11342435
-#EXTINF:-1 group-title="",黑帮斗争
-http://mmitv.top/pltv/huya.php?id=11342419
-#EXTINF:-1 group-title="",古墓系列
-http://mmitv.top/pltv/huya.php?id=11352913
-#EXTINF:-1 group-title="",嫣然影厅
-http://mmitv.top/pltv/huya.php?id=11601977
-#EXTINF:-1 group-title="",女神系列
-http://mmitv.top/pltv/huya.php?id=11336571
-#EXTINF:-1 group-title="",经典女神
-http://mmitv.top/pltv/huya.php?id=11352909
-#EXTINF:-1 group-title="",许氏三杰
-http://mmitv.top/pltv/huya.php?id=11602033
-#EXTINF:-1 group-title="",经典港片
-http://mmitv.top/pltv/huya.php?id=11352965
-#EXTINF:-1 group-title="",镖行天下
-http://mmitv.top/pltv/huya.php?id=11352969
-#EXTINF:-1 group-title="",高能反转
-http://mmitv.top/pltv/huya.php?id=11352887
-#EXTINF:-1 group-title="",喜乐影院
-http://mmitv.top/pltv/huya.php?id=21059580
-#EXTINF:-1 group-title="",蘑菇影厅
-http://mmitv.top/pltv/huya.php?id=11601981
-#EXTINF:-1 group-title="",搞笑恐怖
-http://mmitv.top/pltv/huya.php?id=11601960
-#EXTINF:-1 group-title="",死神来了
-http://mmitv.top/pltv/huya.php?id=11352903
-#EXTINF:-1 group-title="",变形金刚
-http://mmitv.top/pltv/huya.php?id=21059596
-#EXTINF:-1 group-title="",怪兽系列
-http://mmitv.top/pltv/huya.php?id=21059554
-#EXTINF:-1 group-title="",陈翔六点半
-http://mmitv.top/pltv/huya.php?id=11274154
-
-
 
 #EXTINF:-1 group-title="虎牙解说",电影狂人
-http://mmitv.top/pltv/huya.php?id=18715610
+http://golang.61073736.repl.co/huya/18715610
 #EXTINF:-1 group-title="虎牙解说",鹿哥电影
-http://mmitv.top/pltv/huya.php?id=24396360
+http://golang.61073736.repl.co/huya/24396360
 #EXTINF:-1 group-title="虎牙解说",斌哥漫说
-http://mmitv.top/pltv/huya.php?id=18632116
+http://golang.61073736.repl.co/huya/18632116
 #EXTINF:-1 group-title="虎牙解说",续哥说电影
-http://mmitv.top/pltv/huya.php?id=24396472
+http://golang.61073736.repl.co/huya/24396472
 #EXTINF:-1 group-title="虎牙解说",小川侃电影
-http://mmitv.top/pltv/huya.php?id=15870999
+http://golang.61073736.repl.co/huya/15870999
 #EXTINF:-1 group-title="虎牙解说",阿钙扒瞎
-http://mmitv.top/pltv/huya.php?id=15978172
+http://golang.61073736.repl.co/huya/15978172
 #EXTINF:-1 group-title="虎牙解说",阿良说剧
-http://mmitv.top/pltv/huya.php?id=20488841
+http://golang.61073736.repl.co/huya/20488841
 #EXTINF:-1 group-title="虎牙解说",鱼丸电影
-http://mmitv.top/pltv/huya.php?id=16615910
+http://golang.61073736.repl.co/huya/16615910
 #EXTINF:-1 group-title="虎牙解说",阿斗说电影
-http://mmitv.top/pltv/huya.php?id=13303478
+http://golang.61073736.repl.co/huya/13303478
 #EXTINF:-1 group-title="虎牙解说",扁豆看电影
-http://mmitv.top/pltv/huya.php?id=16028551
+http://golang.61073736.repl.co/huya/16028551
 #EXTINF:-1 group-title="虎牙解说",乌贼说电影
-http://mmitv.top/pltv/huya.php?id=16604522
+http://golang.61073736.repl.co/huya/16604522
 #EXTINF:-1 group-title="虎牙解说",大象放映室
-http://mmitv.top/pltv/huya.php?id=21277391
+http://golang.61073736.repl.co/huya/21277391
 #EXTINF:-1 group-title="虎牙解说",科幻梦工场
-http://mmitv.top/pltv/huya.php?id=15152155
+http://golang.61073736.repl.co/huya/15152155
 #EXTINF:-1 group-title="虎牙解说",亮哥讲电影
-http://mmitv.top/pltv/huya.php?id=16144175
+http://golang.61073736.repl.co/huya/16144175
 #EXTINF:-1 group-title="虎牙解说",越哥说电影
-http://mmitv.top/pltv/huya.php?id=15894162
+http://golang.61073736.repl.co/huya/15894162
 #EXTINF:-1 group-title="虎牙解说",小冉看电影
-http://mmitv.top/pltv/huya.php?id=17341907
+http://golang.61073736.repl.co/huya/17341907
 #EXTINF:-1 group-title="虎牙解说",嫦娥撩电影
-http://mmitv.top/pltv/huya.php?id=18201106
+http://golang.61073736.repl.co/huya/18201106
 #EXTINF:-1 group-title="虎牙解说",阿翔说电影
-http://mmitv.top/pltv/huya.php?id=16868935
+http://golang.61073736.repl.co/huya/16868935
 #EXTINF:-1 group-title="虎牙解说",疯狂解说家
-http://mmitv.top/pltv/huya.php?id=18366196
+http://golang.61073736.repl.co/huya/18366196
 #EXTINF:-1 group-title="虎牙解说",虎妞说电影
-http://mmitv.top/pltv/huya.php?id=20343144
+http://golang.61073736.repl.co/huya/20343144
 #EXTINF:-1 group-title="虎牙解说",顾久撩电影
-http://mmitv.top/pltv/huya.php?id=16422212
+http://golang.61073736.repl.co/huya/16422212
 #EXTINF:-1 group-title="虎牙解说",俗哥看电影
-http://mmitv.top/pltv/huya.php?id=15452736
+http://golang.61073736.repl.co/huya/15452736
 #EXTINF:-1 group-title="虎牙解说",老皮讲电影
-http://mmitv.top/pltv/huya.php?id=16968572
+http://golang.61073736.repl.co/huya/16968572
 #EXTINF:-1 group-title="虎牙解说",默爷侃电影
-http://mmitv.top/pltv/huya.php?id=17204307
+http://golang.61073736.repl.co/huya/17204307
 #EXTINF:-1 group-title="虎牙解说",冷君说电影
-http://mmitv.top/pltv/huya.php?id=16739452
+http://golang.61073736.repl.co/huya/16739452
 #EXTINF:-1 group-title="虎牙解说",老炮说电影
-http://mmitv.top/pltv/huya.php?id=15454716
+http://golang.61073736.repl.co/huya/15454716
 #EXTINF:-1 group-title="虎牙解说",刘老师说电影
-http://mmitv.top/pltv/huya.php?id=20289754
+http://golang.61073736.repl.co/huya/20289754
 #EXTINF:-1 group-title="虎牙解说",恐怖电影解说
-http://mmitv.top/pltv/huya.php?id=16741179
+http://golang.61073736.repl.co/huya/16741179
+
+
+#EXTINF:-1 group-title="虎牙电影",星爷
+http://golang.61073736.repl.co/huya/11342412
+#EXTINF:-1 group-title="虎牙电影",英叔
+http://golang.61073736.repl.co/huya/11342421
+#EXTINF:-1 group-title="虎牙电影",发哥
+http://golang.61073736.repl.co/huya/11342387
+#EXTINF:-1 group-title="虎牙电影",成龙
+http://golang.61073736.repl.co/huya/11342386
+#EXTINF:-1 group-title="虎牙电影",王晶
+http://golang.61073736.repl.co/huya/11602058
+#EXTINF:-1 group-title="虎牙电影",沈腾
+http://golang.61073736.repl.co/huya/11601968
+#EXTINF:-1 group-title="虎牙电影",黄渤
+http://golang.61073736.repl.co/huya/11352876
+#EXTINF:-1 group-title="虎牙电影",强森
+http://golang.61073736.repl.co/huya/21059581
+#EXTINF:-1 group-title="虎牙电影",漫威
+http://golang.61073736.repl.co/huya/11602034
+#EXTINF:-1 group-title="虎牙电影",宇宙
+http://golang.61073736.repl.co/huya/11342428
+#EXTINF:-1 group-title="虎牙电影",怪兽
+http://golang.61073736.repl.co/huya/21059577
+#EXTINF:-1 group-title="虎牙电影",武侠
+http://golang.61073736.repl.co/huya/11342427
+#EXTINF:-1 group-title="虎牙电影",警匪
+http://golang.61073736.repl.co/huya/11352886
+#EXTINF:-1 group-title="虎牙电影",罪犯
+http://golang.61073736.repl.co/huya/11352962
+#EXTINF:-1 group-title="虎牙电影",枪战
+http://golang.61073736.repl.co/huya/21059579
+#EXTINF:-1 group-title="虎牙电影",海盗
+http://golang.61073736.repl.co/huya/21059595
+#EXTINF:-1 group-title="虎牙电影",赛车
+http://golang.61073736.repl.co/huya/11279247
+#EXTINF:-1 group-title="虎牙电影",推荐
+http://golang.61073736.repl.co/huya/11602041
+#EXTINF:-1 group-title="虎牙电影",救援
+http://golang.61073736.repl.co/huya/21059594
+#EXTINF:-1 group-title="虎牙电影",热血
+http://golang.61073736.repl.co/huya/11352934
+#EXTINF:-1 group-title="虎牙电影",盗墓
+http://golang.61073736.repl.co/huya/21059552
+#EXTINF:-1 group-title="虎牙电影",贺岁
+http://golang.61073736.repl.co/huya/11601971
+#EXTINF:-1 group-title="虎牙电影",玄幻
+http://golang.61073736.repl.co/huya/11342414
+#EXTINF:-1 group-title="虎牙电影",谍战
+http://golang.61073736.repl.co/huya/21059585
+#EXTINF:-1 group-title="虎牙电影",战争
+http://golang.61073736.repl.co/huya/21059592
+#EXTINF:-1 group-title="虎牙电影",喜剧
+http://golang.61073736.repl.co/huya/11352877
+#EXTINF:-1 group-title="虎牙电影",港片
+http://golang.61073736.repl.co/huya/11602043
+#EXTINF:-1 group-title="虎牙电影",国产
+http://golang.61073736.repl.co/huya/11352973
+#EXTINF:-1 group-title="虎牙电影",周星星
+http://golang.61073736.repl.co/huya/11336587
+#EXTINF:-1 group-title="虎牙电影",李连杰
+http://golang.61073736.repl.co/huya/11342390
+#EXTINF:-1 group-title="虎牙电影",洪金宝
+http://golang.61073736.repl.co/huya/11279251
+#EXTINF:-1 group-title="虎牙电影",梁家辉
+http://golang.61073736.repl.co/huya/11342429
+#EXTINF:-1 group-title="虎牙电影",许冠英
+http://golang.61073736.repl.co/huya/11601972
+#EXTINF:-1 group-title="虎牙电影",刘德华
+http://golang.61073736.repl.co/huya/11342424
+#EXTINF:-1 group-title="虎牙电影",冯小刚
+http://golang.61073736.repl.co/huya/11352906
+#EXTINF:-1 group-title="虎牙电影",邱淑贞
+http://golang.61073736.repl.co/huya/11352949
+#EXTINF:-1 group-title="虎牙电影",五福星
+http://golang.61073736.repl.co/huya/11282233
+#EXTINF:-1 group-title="虎牙电影",斯坦森
+http://golang.61073736.repl.co/huya/21059588
+#EXTINF:-1 group-title="虎牙电影",小鬼头
+http://golang.61073736.repl.co/huya/11352963
+#EXTINF:-1 group-title="虎牙电影",八点档
+http://golang.61073736.repl.co/huya/880261
+#EXTINF:-1 group-title="虎牙电影",蜘蛛侠
+http://golang.61073736.repl.co/huya/21059599
+#EXTINF:-1 group-title="虎牙电影",贺岁片
+http://golang.61073736.repl.co/huya/11601986
+#EXTINF:-1 group-title="虎牙电影",功夫片
+http://golang.61073736.repl.co/huya/11352941
+#EXTINF:-1 group-title="虎牙电影",黑帮片
+http://golang.61073736.repl.co/huya/11336719
+#EXTINF:-1 group-title="虎牙电影",丧尸片
+http://golang.61073736.repl.co/huya/21059578
+#EXTINF:-1 group-title="虎牙电影",灾难片
+http://golang.61073736.repl.co/huya/11602075
+#EXTINF:-1 group-title="虎牙电影",谍战片
+http://golang.61073736.repl.co/huya/21059587
+#EXTINF:-1 group-title="虎牙电影",战争片
+http://golang.61073736.repl.co/huya/21059574
+#EXTINF:-1 group-title="虎牙电影",犯罪片
+http://golang.61073736.repl.co/huya/11352974
+#EXTINF:-1 group-title="虎牙电影",古装片
+http://golang.61073736.repl.co/huya/11336590
+#EXTINF:-1 group-title="虎牙电影",高分动作
+http://golang.61073736.repl.co/huya/11352884
+#EXTINF:-1 group-title="虎牙电影",动作电影
+http://golang.61073736.repl.co/huya/11602077
+#EXTINF:-1 group-title="虎牙电影",搞笑喜剧
+http://golang.61073736.repl.co/huya/11342423
+#EXTINF:-1 group-title="虎牙电影",喜剧专场
+http://golang.61073736.repl.co/huya/11602044
+#EXTINF:-1 group-title="虎牙电影",欢笑影院
+http://golang.61073736.repl.co/huya/11352894
+#EXTINF:-1 group-title="虎牙电影",不挤影院
+http://golang.61073736.repl.co/huya/11352897
+#EXTINF:-1 group-title="虎牙电影",国产悬疑
+http://golang.61073736.repl.co/huya/11342395
+#EXTINF:-1 group-title="虎牙电影",快意江湖
+http://golang.61073736.repl.co/huya/11342435
+#EXTINF:-1 group-title="虎牙电影",黑帮斗争
+http://golang.61073736.repl.co/huya/11342419
+#EXTINF:-1 group-title="虎牙电影",古墓系列
+http://golang.61073736.repl.co/huya/11352913
+#EXTINF:-1 group-title="虎牙电影",嫣然影厅
+http://golang.61073736.repl.co/huya/11601977
+#EXTINF:-1 group-title="虎牙电影",女神系列
+http://golang.61073736.repl.co/huya/11336571
+#EXTINF:-1 group-title="虎牙电影",经典女神
+http://golang.61073736.repl.co/huya/11352909
+#EXTINF:-1 group-title="虎牙电影",许氏三杰
+http://golang.61073736.repl.co/huya/11602033
+#EXTINF:-1 group-title="虎牙电影",经典港片
+http://golang.61073736.repl.co/huya/11352965
+#EXTINF:-1 group-title="虎牙电影",镖行天下
+http://golang.61073736.repl.co/huya/11352969
+#EXTINF:-1 group-title="虎牙电影",高能反转
+http://golang.61073736.repl.co/huya/11352887
+#EXTINF:-1 group-title="虎牙电影",喜乐影院
+http://golang.61073736.repl.co/huya/21059580
+#EXTINF:-1 group-title="虎牙电影",蘑菇影厅
+http://golang.61073736.repl.co/huya/11601981
+#EXTINF:-1 group-title="虎牙电影",搞笑恐怖
+http://golang.61073736.repl.co/huya/11601960
+#EXTINF:-1 group-title="虎牙电影",死神来了
+http://golang.61073736.repl.co/huya/11352903
+#EXTINF:-1 group-title="虎牙电影",变形金刚
+http://golang.61073736.repl.co/huya/21059596
+#EXTINF:-1 group-title="虎牙电影",怪兽系列
+http://golang.61073736.repl.co/huya/21059554
+#EXTINF:-1 group-title="虎牙电影",陈翔六点半
+http://golang.61073736.repl.co/huya/11274154
+
+
+
+
 
 
 
