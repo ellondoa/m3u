@@ -430,25 +430,11 @@ CCTV17,https://php.teamv1.repl.co/bestv.php?id=cctv17hd8m/8000000
 
 
 重庆有线,#genre#
-爱看导视,https://php.61073736.repl.co/cqyx.php?id=aikanHD
-重广融媒,https://php.61073736.repl.co/cqyx.php?id=cqrongmei
-﻿重庆卫视,https://php.61073736.repl.co/cqyx.php?id=chongqingHD
-重庆新闻,https://php.61073736.repl.co/cqyx.php?id=CQTVNewsHD
-重庆影视,https://php.61073736.repl.co/cqyx.php?id=cqyingshiHD
-重庆社会与法,https://php.61073736.repl.co/cqyx.php?id=CQTVTrendyHD
-重庆时尚生活,https://php.61073736.repl.co/cqyx.php?id=cqssgwHD
-重庆文体娱乐,https://php.61073736.repl.co/cqyx.php?id=cqwtylHD
-重庆新农村,https://php.61073736.repl.co/cqyx.php?id=cqggncHD
-重庆少儿,https://php.61073736.repl.co/cqyx.php?id=cqseHD
-重庆科教,https://php.61073736.repl.co/cqyx.php?id=CQTVkejiaoHD
-重庆汽摩,https://php.61073736.repl.co/cqyx.php?id=cqcarSD
-重庆移动,https://php.61073736.repl.co/cqyx.php?id=mryyHD
-
-CCTV4K超高清,https://php.61073736.repl.co/cqyx.php?id=CCTV4K
+CCTV4K,https://php.61073736.repl.co/cqyx.php?id=CCTV4K
 CCTV1综合,https://php.61073736.repl.co/cqyx.php?id=cctv1HD
 CCTV2财经,https://php.61073736.repl.co/cqyx.php?id=cctv2HD
 CCTV3综艺,https://php.61073736.repl.co/cqyx.php?id=cctv3HD
-CCTV4中文国,https://php.61073736.repl.co/cqyx.php?id=cctv4HD
+CCTV4中文国际,https://php.61073736.repl.co/cqyx.php?id=cctv4HD
 CCTV5体育,https://php.61073736.repl.co/cqyx.php?id=cctv5HD
 CCTV6电影,https://php.61073736.repl.co/cqyx.php?id=cctv6HD
 CCTV7国防军事,https://php.61073736.repl.co/cqyx.php?id=cctv7HD
@@ -461,7 +447,7 @@ CCTV13新闻,https://php.61073736.repl.co/cqyx.php?id=CCTVNewsHD
 CCTV14少儿,https://php.61073736.repl.co/cqyx.php?id=cctvseHD
 CCTV15音乐,https://php.61073736.repl.co/cqyx.php?id=cctv15HD
 CCTV16奥林匹克,https://php.61073736.repl.co/cqyx.php?id=cctv16HD
-CCTV16奥林匹克4K,https://php.61073736.repl.co/cqyx.php?id=CCTV16_4K
+CCTV16-4K,https://php.61073736.repl.co/cqyx.php?id=CCTV16_4K
 CCTV17农业农村,https://php.61073736.repl.co/cqyx.php?id=cctv17HD
 CGTN,https://php.61073736.repl.co/cqyx.php?id=cgtnSD
 CETV1,https://php.61073736.repl.co/cqyx.php?id=cetv-1SD
