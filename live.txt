@@ -151,7 +151,7 @@ CGTN-英语,https://php.61073736.repl.co/sxg.php?id=CGTN_4000
 央广购物,https://php.61073736.repl.co/sxg.php?id=yggwgq_4000
 优购物,https://php.61073736.repl.co/sxg.php?id=ygw_4000
 
-💙BestTV,#genre#
+💙Best TV,#genre#
 CCTV1综合,https://php.61073736.repl.co/bestv.php?id=cctv1hd8m/8000000
 CCTV2财经,https://php.61073736.repl.co/bestv.php?id=cctv2hd8m/8000000
 CCTV3综艺,https://php.61073736.repl.co/bestv.php?id=cctv38m/8000000
@@ -580,7 +580,7 @@ CHC高清电影,https://php.61073736.repl.co/cqyx.php?id=chcgqdyHD
 
 
 
-🌄NewTV频道,#genre#
+🌄NEW  TV,#genre#
 
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1557894210_-694330224/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw1557681271_-1627945614/ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
@@ -1210,7 +1210,7 @@ LexBurner,http://zzy789.xyz/bili.php?id=11365
 -猫大人-,http://zzy789.xyz/bili.php?id=723
 
 
-虎牙一起,#genre#
+🐣虎牙一起,#genre#
 灯泡妹妹,https://live.metshop.top/huya/610617
 SMG最强大脑,https://live.metshop.top/huya/11352914
 周星星,https://live.metshop.top/huya/11342412
@@ -1925,7 +1925,7 @@ EXO-世勋,https://live.metshop.top/huya/660205
 
 
 
-斗鱼一起,#genre#
+🐠斗鱼一起,#genre#
 特辑电影院,http://ax89.vip/douyu.php?id=3637778
 竹叶的熊猫,http://ax89.vip/douyu.php?id=3870925
 进击的神乐,http://ax89.vip/douyu.php?id=85894
@@ -2855,7 +2855,7 @@ wugltest,http://ax89.vip/douyu.php?id=1844872
 动漫唯美風,http://ax89.vip/douyu.php?id=8912038
 梦尽310,http://ax89.vip/douyu.php?id=11491958
 
-YY综合,#genre#
+🐡YY 综合,#genre#
 做你的百变少女,https://php.61073736.repl.co/yy.php?id=1355549868
 最美的青春,https://php.61073736.repl.co/yy.php?id=1382745116
 最可爱的人,https://php.61073736.repl.co/yy.php?id=1382779528
@@ -3582,7 +3582,7 @@ MUFC贝影,https://php.61073736.repl.co/yy.php?id=1355659580
 [经典]鹿鼎记,https://php.61073736.repl.co/yy.php?id=1355526531
 [鬼怪.惊辣.墓穴],https://php.61073736.repl.co/yy.php?id=1382748585
 
-少儿频道,#genre#
+👶少儿频道,#genre#
 卡酷少儿,http://222.71.90.218:8888/newlive/live/hls/50/live.m3u8
 卡酷少儿,http://cc.qiyuevod.com/satv/cqyx.php?id=bjkakuSD
 卡酷少儿,http://www.happyspace.party:4022/udp/239.45.0.8:5140
@@ -3650,7 +3650,7 @@ MUFC贝影,https://php.61073736.repl.co/yy.php?id=1355659580
 狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 
 
-少儿动画,#genre#
+👼少儿动画,#genre#
 【七龍珠改】超级赛亚人孙捂空,https://epg.112114.xyz/huya/11601966
 【Blue胖】你看得到我的腿吗,https://epg.112114.xyz/huya/11601963
 【海绵宝宝】黄方块的爆笑生活~,https://epg.112114.xyz/huya/11352919
@@ -3734,7 +3734,7 @@ LexBurner,http://zzy789.xyz/bili.php?id=11365
 -猫大人-,http://zzy789.xyz/bili.php?id=723
 
 
-音乐MV,#genre#
+‍🎤音乐 MV,#genre#
 动听漫歌,http://re.qiyuevod.com/ckuelb/dy.php?id=9564766
 周董乐台,http://re.qiyuevod.com/ckuelb/dy.php?id=7537296
 余娟乐台,http://re.qiyuevod.com/ckuelb/dy.php?id=3186217
