@@ -151,7 +151,7 @@ CGTN-英语,https://php.61073736.repl.co/sxg.php?id=CGTN_4000
 央广购物,https://php.61073736.repl.co/sxg.php?id=yggwgq_4000
 优购物,https://php.61073736.repl.co/sxg.php?id=ygw_4000
 
-💙Best TV,#genre#
+💙Best  TV,#genre#
 CCTV1综合,https://php.61073736.repl.co/bestv.php?id=cctv1hd8m/8000000
 CCTV2财经,https://php.61073736.repl.co/bestv.php?id=cctv2hd8m/8000000
 CCTV3综艺,https://php.61073736.repl.co/bestv.php?id=cctv38m/8000000
@@ -3859,7 +3859,7 @@ EXID - 上下(中文版),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtd6M9QU
 
 
 
-体育频道,#genre#
+🏃体育频道,#genre#
 IMPACT! Wrestling,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 24小时体育台,http://tv.ye23.win/iptv2025ok@gmail.com/2211af/ws.php?id=24
 博斯网球,http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
@@ -3896,10 +3896,7 @@ ELEVEN1 高清,http://61.221.81.93:8078/hls/25/80/esport.m3u8
 
 
 
-
-
-
-中广电台,#genre#
+🎹中广电台,#genre#
 中广新闻,http://n12.rcs.revma.com/78fm9wyy2tzuv
 中广音乐,http://n07.rcs.revma.com/ks4vsmg3qtzuv
 中广流行,http://n14.rcs.revma.com/aw9uqyxy2tzuv
@@ -3983,7 +3980,7 @@ CRI 世界华声,http://sk.cri.cn/hxfh.m3u8
 CRI 轻松调频,http://sk.cri.cn/915.m3u8
 CRI 粤语国际,http://sk.cri.cn/hxfh.m3u8
 
-音乐电台,#genre#
+🎼音乐电台,#genre#
 AsiaFM 亚洲音乐,http://asiafm.hk:8000/asiafm
 AsiaFM 亚洲热歌,http://asiafm.net:8000/asiafmhot
 AsiaFM 亚洲经典,http://goldfm.cn:8000/goldfm
@@ -4047,7 +4044,7 @@ UFM 1003,https://22283.live.streamtheworld.com/UFM_1003AAC.aac
 国乐悠扬,http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
 南投广播,http://fm997.cityfm.tw:8080/997a.mp3
 
-综合电台,#genre#
+📻综合电台,#genre#
 CGTN Radio,http://sk.cri.cn/am846.m3u8
 CRI 环球资讯广播,https://sk.cri.cn/905.m3u8
 CRI 华语环球广播,http://sk.cri.cn/hyhq.m3u8
@@ -4140,7 +4137,7 @@ Smooth Jazz,http://rfcmedia.streamguys1.com/smoothjazzpremium.mp3
 The Hit List,http://rfcmedia.streamguys1.com/srhitlist.mp3
 
 
-直播中国,#genre#
+🎦直播中国,#genre#
 直播中国精编直播,http://gcksc.v.kcdnvip.com/gc/wgw05_1/index.m3u8
 直播中国精编直播,http://gcbsc.v.live.baishancdnx.cn/gc/wgw05_1/index.m3u8
 湖南张家界水绕四门,http://gcksc.v.kcdnvip.com/gc/zjjsrsm_1/index.m3u8
