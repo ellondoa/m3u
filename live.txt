@@ -34,7 +34,7 @@ TVBS 56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 三立海外,https://www.youtube.com/watch?v=FoBfXvlOR6I
 TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
 镜新闻,https://www.youtube.com/watch?v=5n0y6b0Q25o
-新宿直播,https://www.youtube.com/watch?v=DjdUEyjx8GM
+东京都-新宿,https://www.youtube.com/watch?v=DjdUEyjx8GM
 台湾地震监视,https://www.youtube.com/watch?v=Owke6Quk7T0
 新唐人,https://www.youtube.com/watch?v=WIhgU_mc05A
 信大电视台,https://www.youtube.com/watch?v=AQymzwl3uSk
@@ -2773,39 +2773,29 @@ wugltest,http://ax89.vip/douyu.php?id=1844872
 梦尽310,http://ax89.vip/douyu.php?id=11491958
 
 🐡YY  综合,#genre#
-做你的百变少女,https://php.61073736.repl.co/yy.php?id=1355549868
 最美的青春,https://php.61073736.repl.co/yy.php?id=1382745116
 最可爱的人,https://php.61073736.repl.co/yy.php?id=1382779528
-最后的狮子-探险纪录片,https://php.61073736.repl.co/yy.php?id=1382735577
-主播-求关注.24小时,https://php.61073736.repl.co/yy.php?id=1456625255
-逐梦传媒-007正在直播,https://php.61073736.repl.co/yy.php?id=1456685522
-朱元璋电视剧,https://php.61073736.repl.co/yy.php?id=1382765235
-重生之超级赛亚人,https://php.61073736.repl.co/yy.php?id=1354936124
+最后的狮子纪录片,https://php.61073736.repl.co/yy.php?id=1382735577
+逐梦传媒,https://php.61073736.repl.co/yy.php?id=1456685522
+朱元璋,https://php.61073736.repl.co/yy.php?id=1382765235
 钟馗传说,https://php.61073736.repl.co/yy.php?id=1382736839
 忠烈杨家将,https://php.61073736.repl.co/yy.php?id=1382749909
 中年计划,https://php.61073736.repl.co/yy.php?id=1354658051
-中国味道第4季-美食纪录片,https://php.61073736.repl.co/yy.php?id=1382736845
-中国第一神探-狄仁杰,https://php.61073736.repl.co/yy.php?id=1354932438
+中国味道第4季,https://php.61073736.repl.co/yy.php?id=1382736845
+狄仁杰,https://php.61073736.repl.co/yy.php?id=1354932438
 致敬星爷致敬经典,https://php.61073736.repl.co/yy.php?id=1354889048
 知否知否应是绿肥红瘦,https://php.61073736.repl.co/yy.php?id=21881901
-正在直播,https://php.61073736.repl.co/yy.php?id=1461178025
-正阳门下正在直播,https://php.61073736.repl.co/yy.php?id=1453059740
-正阳门下小女人,https://php.61073736.repl.co/yy.php?id=1508778570
+正阳门下,https://php.61073736.repl.co/yy.php?id=1453059740
+正阳门下,https://php.61073736.repl.co/yy.php?id=1508778570
 正阳门下,https://php.61073736.repl.co/yy.php?id=1354931580
-枕上书正在直播,https://php.61073736.repl.co/yy.php?id=1351844200
+枕上书,https://php.61073736.repl.co/yy.php?id=1351844200
 真心想让你幸福,https://php.61073736.repl.co/yy.php?id=1382736876
 真实案件系列,https://php.61073736.repl.co/yy.php?id=1382671124
-珍珠港-电影,https://php.61073736.repl.co/yy.php?id=1354936234
-赵家班电视剧,https://php.61073736.repl.co/yy.php?id=1382737099
-赵本山小品,https://php.61073736.repl.co/yy.php?id=28882933
-赵本山爆笑小品2,https://php.61073736.repl.co/yy.php?id=1354936217
-赵本山《蓝光版》,https://php.61073736.repl.co/yy.php?id=32160832
-赵本山《超清版》,https://php.61073736.repl.co/yy.php?id=1382683959
-丈夫在外有人？真相竟然是！,https://php.61073736.repl.co/yy.php?id=1354932375
-张译电视剧/电影,https://php.61073736.repl.co/yy.php?id=1355119593
+珍珠港,https://php.61073736.repl.co/yy.php?id=1354936234
+赵本山,https://php.61073736.repl.co/yy.php?id=32160832
 张国荣与周润发的兄弟情,https://php.61073736.repl.co/yy.php?id=1354930961
-战争二战《狙击电影》,https://php.61073736.repl.co/yy.php?id=1450828388
-战争大片-国外电影,https://php.61073736.repl.co/yy.php?id=1382736857
+狙击电影,https://php.61073736.repl.co/yy.php?id=1450828388
+战争大片,https://php.61073736.repl.co/yy.php?id=1382736857
 战争大片,https://php.61073736.repl.co/yy.php?id=1382736819
 战争大片,https://php.61073736.repl.co/yy.php?id=1382736798
 战争大片,https://php.61073736.repl.co/yy.php?id=1382735556
@@ -2826,16 +2816,16 @@ wugltest,http://ax89.vip/douyu.php?id=1844872
 远去的飞鹰-影视剧,https://php.61073736.repl.co/yy.php?id=1354930912
 原始人大挑战,https://php.61073736.repl.co/yy.php?id=1382736884
 宇宙护卫队--国漫,https://php.61073736.repl.co/yy.php?id=1382736837
-余zui,https://php.61073736.repl.co/yy.php?id=31809939
+余罪,https://php.61073736.repl.co/yy.php?id=31809939
 勇敢的心,https://php.61073736.repl.co/yy.php?id=1354792480
-雍正王朝高清护眼版,https://php.61073736.repl.co/yy.php?id=23206872
+雍正王朝,https://php.61073736.repl.co/yy.php?id=23206872
 雍正王朝,https://php.61073736.repl.co/yy.php?id=26650882
 影视娱乐剧场,https://php.61073736.repl.co/yy.php?id=1354748830
 影视剧场,https://php.61073736.repl.co/yy.php?id=1355260855
 英叔全集经典鬼片,https://php.61073736.repl.co/yy.php?id=1354869861
 英叔僵尸3000部,https://php.61073736.repl.co/yy.php?id=1353685311
-银河护卫队-国外科幻巨作,https://php.61073736.repl.co/yy.php?id=1382736815
-易中天品三国完整版,https://php.61073736.repl.co/yy.php?id=1461244449
+银河护卫队,https://php.61073736.repl.co/yy.php?id=1382736815
+易中天品三国,https://php.61073736.repl.co/yy.php?id=1461244449
 易中天品三国,https://php.61073736.repl.co/yy.php?id=1354931498
 倚天屠龙记,https://php.61073736.repl.co/yy.php?id=1451866697
 倚天屠龙记,https://php.61073736.repl.co/yy.php?id=1449856066
@@ -2852,14 +2842,14 @@ wugltest,http://ax89.vip/douyu.php?id=1844872
 野山鹰-影视剧,https://php.61073736.repl.co/yy.php?id=1354932395
 妖神记之黑狱篇,https://php.61073736.repl.co/yy.php?id=1382745173
 妖魔鬼怪超好看,https://php.61073736.repl.co/yy.php?id=1459714870
-燕双鹰专场,https://php.61073736.repl.co/yy.php?id=23026835
-燕双鹰系列,https://php.61073736.repl.co/yy.php?id=1457622044
+燕双鹰,https://php.61073736.repl.co/yy.php?id=23026835
+燕双鹰,https://php.61073736.repl.co/yy.php?id=1457622044
 燕双鹰,https://php.61073736.repl.co/yy.php?id=1355358366
 燕双鹰,https://php.61073736.repl.co/yy.php?id=1354143942
 燕双鹰,https://php.61073736.repl.co/yy.php?id=1352227153
 丫头动漫斗罗斗破,https://php.61073736.repl.co/yy.php?id=1458722520
 寻味顺德-美食纪录片,https://php.61073736.repl.co/yy.php?id=1382736844
-寻秦记-穿越剧经典,https://php.61073736.repl.co/yy.php?id=1382749900
+寻秦记,https://php.61073736.repl.co/yy.php?id=1382749900
 血色浪漫,https://php.61073736.repl.co/yy.php?id=1354926676
 雪中悍刀行,https://php.61073736.repl.co/yy.php?id=1382660835
 雪中悍刀行,https://php.61073736.repl.co/yy.php?id=1354943110
@@ -2867,22 +2857,19 @@ wugltest,http://ax89.vip/douyu.php?id=1844872
 学生兵,https://php.61073736.repl.co/yy.php?id=1354658003
 薛元帅传奇,https://php.61073736.repl.co/yy.php?id=31313785
 修牛蹄,https://php.61073736.repl.co/yy.php?id=1353413683
-熊仔之正义守护-国漫,https://php.61073736.repl.co/yy.php?id=1382736836
-熊出没之探险日记S1-国漫,https://php.61073736.repl.co/yy.php?id=1354930977
-熊出没-国漫,https://php.61073736.repl.co/yy.php?id=1354936157
-星爷经典-百看不厌,https://php.61073736.repl.co/yy.php?id=1382736808
-星爷经典-百看不厌,https://php.61073736.repl.co/yy.php?id=1382736808
-星爷功夫经典武侠,https://php.61073736.repl.co/yy.php?id=74613175
-新主播，求照顾,https://php.61073736.repl.co/yy.php?id=29197808
-新主播，求照顾,https://php.61073736.repl.co/yy.php?id=1394102549
-新主播，求照顾,https://php.61073736.repl.co/yy.php?id=1382690406
+熊仔之正义守护,https://php.61073736.repl.co/yy.php?id=1382736836
+熊出没之探险日记S1,https://php.61073736.repl.co/yy.php?id=1354930977
+熊出没,https://php.61073736.repl.co/yy.php?id=1354936157
+星爷经典,https://php.61073736.repl.co/yy.php?id=1382736808
+星爷功夫,https://php.61073736.repl.co/yy.php?id=74613175
+
 新水浒传,https://php.61073736.repl.co/yy.php?id=1356059275
 新世界,https://php.61073736.repl.co/yy.php?id=1382736850
-新三国24小时播放,https://php.61073736.repl.co/yy.php?id=1354555195
+新三国,https://php.61073736.repl.co/yy.php?id=1354555195
 新三国,https://php.61073736.repl.co/yy.php?id=26744898
-新白娘子传奇-女神赵雅芝,https://php.61073736.repl.co/yy.php?id=1354930969
+新白娘子传奇,https://php.61073736.repl.co/yy.php?id=1354930969
 新白娘子传奇,https://php.61073736.repl.co/yy.php?id=1354490667
-心理追凶-港剧,https://php.61073736.repl.co/yy.php?id=1354936207
+心理追凶,https://php.61073736.repl.co/yy.php?id=1354936207
 笑声传奇,https://php.61073736.repl.co/yy.php?id=1382736880
 笑傲江湖-电视剧,https://php.61073736.repl.co/yy.php?id=1354936128
 笑傲江湖第2季,https://php.61073736.repl.co/yy.php?id=1382736914
@@ -2898,17 +2885,17 @@ wugltest,http://ax89.vip/douyu.php?id=1844872
 小敏,https://php.61073736.repl.co/yy.php?id=1382736890
 小米粒Mili,https://php.61073736.repl.co/yy.php?id=1382736842
 小欢喜,https://php.61073736.repl.co/yy.php?id=1382737888
-小鬼当家-童年回忆,https://php.61073736.repl.co/yy.php?id=1382745104
+小鬼当家,https://php.61073736.repl.co/yy.php?id=1382745104
 小兵张嘎,https://php.61073736.repl.co/yy.php?id=1354930225
 小宝让你乐翻天：6到9集,https://php.61073736.repl.co/yy.php?id=1354930971
-香港院线大片-最新,https://php.61073736.repl.co/yy.php?id=1354936242
+香港院线大片,https://php.61073736.repl.co/yy.php?id=1354936242
 香港动作大片,https://php.61073736.repl.co/yy.php?id=1382736816
 现代军旅,https://php.61073736.repl.co/yy.php?id=1382830638
 闲暇观看综艺,https://php.61073736.repl.co/yy.php?id=1354932379
 仙女影视,https://php.61073736.repl.co/yy.php?id=1356038038
 仙灵儿,https://php.61073736.repl.co/yy.php?id=1382736887
-仙剑奇侠传-神仙姐姐驾到,https://php.61073736.repl.co/yy.php?id=1382749903
-夏洛特烦恼-国内电影-喜剧,https://php.61073736.repl.co/yy.php?id=1354936201
+仙剑奇侠传,https://php.61073736.repl.co/yy.php?id=1382749903
+夏洛特烦恼,https://php.61073736.repl.co/yy.php?id=1354936201
 系列电视剧,https://php.61073736.repl.co/yy.php?id=1458015189
 喜乐街,https://php.61073736.repl.co/yy.php?id=1354936231
 喜剧闹翻天,https://php.61073736.repl.co/yy.php?id=1382735548
@@ -2949,7 +2936,7 @@ wugltest,http://ax89.vip/douyu.php?id=1844872
 吐槽大会第2季,https://php.61073736.repl.co/yy.php?id=1354936145
 吐槽大会第1季,https://php.61073736.repl.co/yy.php?id=1354936210
 通天狄仁杰,https://php.61073736.repl.co/yy.php?id=1382749906
-跳远生命线-优质港剧,https://php.61073736.repl.co/yy.php?id=1382735566
+跳远生命线,https://php.61073736.repl.co/yy.php?id=1382735566
 田园生活,https://php.61073736.repl.co/yy.php?id=1382736898
 天下第一,https://php.61073736.repl.co/yy.php?id=1382736838
 天下第一,https://php.61073736.repl.co/yy.php?id=1355554637
@@ -2958,35 +2945,30 @@ wugltest,http://ax89.vip/douyu.php?id=1844872
 天龙八部,https://php.61073736.repl.co/yy.php?id=1382749944
 天龙八部,https://php.61073736.repl.co/yy.php?id=1351814644
 天龙八部（国语版）,https://php.61073736.repl.co/yy.php?id=1382736855
-天道-9.2高分好剧,https://php.61073736.repl.co/yy.php?id=1382735574
-体验另一种生活！,https://php.61073736.repl.co/yy.php?id=1354936229
-特种兵系列,https://php.61073736.repl.co/yy.php?id=1508456184
-特种兵归来-国产电影,https://php.61073736.repl.co/yy.php?id=1382735581
+天道,https://php.61073736.repl.co/yy.php?id=1382735574
 溏心风暴之家好月圆,https://php.61073736.repl.co/yy.php?id=1354888747
 探秘中华美食,https://php.61073736.repl.co/yy.php?id=1354930954
 探案！探案！,https://php.61073736.repl.co/yy.php?id=1382829413
 谈判专家,https://php.61073736.repl.co/yy.php?id=1382735560
 隋唐英雄传蓝光,https://php.61073736.repl.co/yy.php?id=1352475619
-粟裕大将-影视,https://php.61073736.repl.co/yy.php?id=1354926542
-速度与激情全集,https://php.61073736.repl.co/yy.php?id=1382749892
+速度与激情,https://php.61073736.repl.co/yy.php?id=1382749892
 送欢乐,https://php.61073736.repl.co/yy.php?id=34093016
 宋小宝小品合集,https://php.61073736.repl.co/yy.php?id=1354931577
 宋小宝春晚小品合集,https://php.61073736.repl.co/yy.php?id=1382736866
-顺娘-影视剧,https://php.61073736.repl.co/yy.php?id=1354930945
-水浒传梁山好汉,https://php.61073736.repl.co/yy.php?id=1382832087
-双月之城-国漫,https://php.61073736.repl.co/yy.php?id=1382736907
-摔跤吧爸爸！院线大片,https://php.61073736.repl.co/yy.php?id=1382736851
+顺娘,https://php.61073736.repl.co/yy.php?id=1354930945
+水浒传,https://php.61073736.repl.co/yy.php?id=1382832087
+摔跤吧爸爸,https://php.61073736.repl.co/yy.php?id=1382736851
 守望的天空,https://php.61073736.repl.co/yy.php?id=1382736843
 守望的天空,https://php.61073736.repl.co/yy.php?id=1382736843
 士兵突击,https://php.61073736.repl.co/yy.php?id=1382828766
 史诗级战争大片,https://php.61073736.repl.co/yy.php?id=1382745092
-十大经典港剧之《大时代》,https://php.61073736.repl.co/yy.php?id=1354930891
+大时代,https://php.61073736.repl.co/yy.php?id=1354930891
 失忆24小时,https://php.61073736.repl.co/yy.php?id=1382741640
 剩女李夏天的求爱之路,https://php.61073736.repl.co/yy.php?id=1382749910
 生逢灿烂的日子,https://php.61073736.repl.co/yy.php?id=1382745085
 神医喜来乐,https://php.61073736.repl.co/yy.php?id=1382714119
 神探狄仁杰2,https://php.61073736.repl.co/yy.php?id=1382828767
-神探狄仁杰1—5部全集,https://php.61073736.repl.co/yy.php?id=1382705592
+神探狄仁杰,https://php.61073736.repl.co/yy.php?id=1382705592
 神探狄仁杰1,https://php.61073736.repl.co/yy.php?id=1354930934
 神探狄仁杰,https://php.61073736.repl.co/yy.php?id=38338029
 神探狄仁杰,https://php.61073736.repl.co/yy.php?id=1461133588
@@ -2995,19 +2977,17 @@ wugltest,http://ax89.vip/douyu.php?id=1844872
 神厨小福贵,https://php.61073736.repl.co/yy.php?id=1382736860
 什么会让你快乐,https://php.61073736.repl.co/yy.php?id=54886912
 深海利剑,https://php.61073736.repl.co/yy.php?id=1382736906
-舌尖上的中国第一季,https://php.61073736.repl.co/yy.php?id=1354930952
+舌尖上的中国第1季,https://php.61073736.repl.co/yy.php?id=1354930952
 舌尖上的中国第2季,https://php.61073736.repl.co/yy.php?id=1354930943
-少年歌行【蓝光】,https://php.61073736.repl.co/yy.php?id=1450556636
-少年包青天三,https://php.61073736.repl.co/yy.php?id=61318527
-少年包青天第三部,https://php.61073736.repl.co/yy.php?id=1382736814
-少年包青天1-3蓝光版,https://php.61073736.repl.co/yy.php?id=38498680
+少年歌行,https://php.61073736.repl.co/yy.php?id=1450556636
+少年包青天,https://php.61073736.repl.co/yy.php?id=38498680
 少年包青天,https://php.61073736.repl.co/yy.php?id=1382651363
 烧脑破案24h陪你看,https://php.61073736.repl.co/yy.php?id=1355171357
 烧脑！国外侦探,https://php.61073736.repl.co/yy.php?id=1382735551
 上海滩,https://php.61073736.repl.co/yy.php?id=1382745184
-三国演义94年经典版,https://php.61073736.repl.co/yy.php?id=1354936241
-三国演义94年经典版,https://php.61073736.repl.co/yy.php?id=1354936241
-三国演义【1994】,https://php.61073736.repl.co/yy.php?id=1354930932
+三国演义94,https://php.61073736.repl.co/yy.php?id=1354936241
+三国演义94,https://php.61073736.repl.co/yy.php?id=1354936241
+三国演义94,https://php.61073736.repl.co/yy.php?id=1354930932
 三国演义,https://php.61073736.repl.co/yy.php?id=32788000
 三个女人一个因,https://php.61073736.repl.co/yy.php?id=1382749953
 人生必看的科幻片,https://php.61073736.repl.co/yy.php?id=1382745114
@@ -3036,11 +3016,9 @@ wugltest,http://ax89.vip/douyu.php?id=1844872
 彭禺厶鬼怪奇幻系列电影,https://php.61073736.repl.co/yy.php?id=1355249116
 泡芙陪你看电影,https://php.61073736.repl.co/yy.php?id=24407222
 泡芙陪你看电影,https://php.61073736.repl.co/yy.php?id=24407222
-?潘磕惺康谝患?-国产喜剧,https://php.61073736.repl.co/yy.php?id=1382741637
-欧阳震华带你起飞,https://php.61073736.repl.co/yy.php?id=1456829119
+欧阳震华,https://php.61073736.repl.co/yy.php?id=1456829119
 女鬼绝版电影,https://php.61073736.repl.co/yy.php?id=1459727675
 女鬼绝版电影,https://php.61073736.repl.co/yy.php?id=1355479289
-怒海潜沙&amp;重启全集,https://php.61073736.repl.co/yy.php?id=1354744544
 农家小菜,https://php.61073736.repl.co/yy.php?id=1382736894
 娘亲舅大,https://php.61073736.repl.co/yy.php?id=1354932360
 你最爱的宋小宝,https://php.61073736.repl.co/yy.php?id=1354936198
@@ -3443,12 +3421,11 @@ MUFC贝影,https://php.61073736.repl.co/yy.php?id=1355659580
 24H欧美惊悚科幻,https://php.61073736.repl.co/yy.php?id=1382656234
 24H国漫热播,https://php.61073736.repl.co/yy.php?id=1353937086
 10年没洗的地毯,https://php.61073736.repl.co/yy.php?id=1354931585
-【周星驰超级搞笑电影,https://php.61073736.repl.co/yy.php?id=38670875
+【周星驰】搞笑电影,https://php.61073736.repl.co/yy.php?id=38670875
 【战狼4】吴京老师,https://php.61073736.repl.co/yy.php?id=1354784284
 【战狼3吴京首播】,https://php.61073736.repl.co/yy.php?id=1354752072
 【战狼3吴京】首播,https://php.61073736.repl.co/yy.php?id=1456668939
 【战狼3吴京】独播,https://php.61073736.repl.co/yy.php?id=37999586
-【义+】+奈奈新正在直播,https://php.61073736.repl.co/yy.php?id=1462815850
 【一代枭雄】24h,https://php.61073736.repl.co/yy.php?id=1355917294
 【血色浪漫】经典回顾,https://php.61073736.repl.co/yy.php?id=33369999
 【雪豹】超经典,https://php.61073736.repl.co/yy.php?id=1450496699
@@ -3470,14 +3447,14 @@ MUFC贝影,https://php.61073736.repl.co/yy.php?id=1355659580
 【经典港片】佟瑶,https://php.61073736.repl.co/yy.php?id=23531261
 【济公】游本昌老师,https://php.61073736.repl.co/yy.php?id=25519088
 【火蓝刀锋】臭鱼,https://php.61073736.repl.co/yy.php?id=1354784966
-【荒野求生】德爷贝爷蓝光,https://php.61073736.repl.co/yy.php?id=24759907
-【荒野求生】德爷贝爷各种,https://php.61073736.repl.co/yy.php?id=21831828
+【荒野求生】德爷贝爷,https://php.61073736.repl.co/yy.php?id=24759907
+【荒野求生】德爷贝爷,https://php.61073736.repl.co/yy.php?id=21831828
 【荒野求生】德爷贝爷,https://php.61073736.repl.co/yy.php?id=39123221
 【港台】鬼片惊悚喜剧,https://php.61073736.repl.co/yy.php?id=1351030377
 【港片】赌片动作,https://php.61073736.repl.co/yy.php?id=24921161
 【二炮手】孙红雷,https://php.61073736.repl.co/yy.php?id=1354330324
 【赌神片动作片港片】,https://php.61073736.repl.co/yy.php?id=1355112116
-【动漫】斗罗斗破超清全屏,https://php.61073736.repl.co/yy.php?id=1382689904
+【动漫】斗罗斗破,https://php.61073736.repl.co/yy.php?id=1382689904
 【动漫】斗罗斗破,https://php.61073736.repl.co/yy.php?id=35742228
 【动漫】斗罗斗破,https://php.61073736.repl.co/yy.php?id=1353098382
 【电影】顶级动作电影,https://php.61073736.repl.co/yy.php?id=24923327
@@ -3568,7 +3545,7 @@ MUFC贝影,https://php.61073736.repl.co/yy.php?id=1355659580
 
 
 👼少儿动画,#genre#
-【七龍珠改】超级赛亚人孙捂空,https://epg.112114.xyz/huya/11601966
+七龙珠改,https://epg.112114.xyz/huya/11601966
 【Blue胖】你看得到我的腿吗,https://epg.112114.xyz/huya/11601963
 【海绵宝宝】黄方块的爆笑生活~,https://epg.112114.xyz/huya/11352919
 【猫和老鼠】汤姆和杰瑞的故事,https://epg.112114.xyz/huya/11352879
@@ -3639,16 +3616,16 @@ MUFC贝影,https://php.61073736.repl.co/yy.php?id=1355659580
 经典番剧/动漫/剧场版24时轮播,http://zzy789.xyz/bili.php?id=21751462
 开心超人联盟（开心宝贝）童年版,http://zzy789.xyz/bili.php?id=11606075
 童年回忆X百变小樱7X24最全资源轮播,http://zzy789.xyz/bili.php?id=34340
-【爷青回】中华小子25x8不间断直播,http://zzy789.xyz/bili.php?id=22194340
-经典动漫（推理、童年、灵异）,http://zzy789.xyz/bili.php?id=4089143
+中华小子,http://zzy789.xyz/bili.php?id=22194340
+经典动漫,http://zzy789.xyz/bili.php?id=4089143
 咱们裸熊！24小时循环直播！,http://zzy789.xyz/bili.php?id=11168667
 经典特摄剧登场,http://zzy789.xyz/bili.php?id=24781991
-动画＆电影合集，随缘播放,http://zzy789.xyz/bili.php?id=24511160
+动画＆电影合集,http://zzy789.xyz/bili.php?id=24511160
 【游戏王】今天一起看V6,http://zzy789.xyz/bili.php?id=23891000
-童年回忆-喜羊羊与灰太狼-周星驰-林正英,http://zzy789.xyz/bili.php?id=25060711
-⭐经典动漫播不停⭐,http://zzy789.xyz/bili.php?id=21395123
+童年回忆,http://zzy789.xyz/bili.php?id=25060711
+经典动漫播不停,http://zzy789.xyz/bili.php?id=21395123
 LexBurner,http://zzy789.xyz/bili.php?id=11365
--猫大人-,http://zzy789.xyz/bili.php?id=723
+猫大人,http://zzy789.xyz/bili.php?id=723
 
 
 ‍🎤音乐 MV,#genre#
@@ -3688,35 +3665,6 @@ LexBurner,http://zzy789.xyz/bili.php?id=11365
 惊艳翻唱,http://43.137.29.124/txdirect.flv.huya.com/src/1099531753571-1099531753571-86439631331000320-2199063630598-10057-A-0-1.m3u8??
 惊艳翻唱,http://re.qiyuevod.com/ckuelb/hy.php?id=21241815
 韩国鼓手,http://re.qiyuevod.com/ckuelb/hy.php?id=21241800
-印度神曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg56m04gUokIbBswU.mp4
-欧美动感,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyMqg4gUo-uSR5AU.mp4
-动感歌曲A,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg45qY9wUonJT41gc.mp4
-动感歌曲B,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvZ6k4wUo0cGkhgQ.mp4
-动感歌曲C,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAghrTW4gUojKzXlwI.mp4
-动感歌曲D,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4
-华语群星-乘风,http://re.qiyuevod.com/ckuemv/华语群星-乘风.mp4
-Girls Gone Wild,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjd2w4gUou--ljQE.mp4
-韩国动感舞曲1,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4
-韩国动感舞曲2,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz-qc4gUo4vj-tQY.mp4
-上下(中文版),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtd6M9QUokpHf7AY.mp4
-泫雅-甩Nai舞,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp92c4gUovM-V_QU.mp4
-僵尸跳舞-David Jones,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-vqa4gUotM7X6wc.mp4
-Tara-lovey dovey,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw5Cv4gUoiZqZ4wE.mp4
-Alan Walker-Faded,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9qiM5gUo-tns8Qc.mp4
-Trouble Maker,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2fWv4gUo9JT7DQ.mp4
-Trouble Maker-Now,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvue_4gUomZa1kQU.mp4
-Stellar-Vibrato,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_O_-4gUo257EIg.mp4
-School-Flashback,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_PSc4gUoxOLZ3AM.mp4
-Sistar-Give,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkoe24gUo-OW_mwQ.mp4
-School-初恋,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgn-a24gUouMCswQY.mp4
-Dal Shabet,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3fq95QUoisPxpAM.mp4
-佳仁-Paradise Lost,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgy9j64wUogPOGEQ.mp4
-Hellovenus-StickySticky,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnIS24gUoptqYDQ.mp4
-Four Ladies-Move,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg85Do5QUow-P-wwI.mp4
-AOA-短裙,http://re.qiyuevod.com/ckuemv/AOA_短裙.mp4
-AOA-Excuse Me,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmozg7AUolaeS8gU.mp4
-AOA-Like A Cat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ.mp4
-Stellar 提线木偶,http://re.qiyuevod.com/ckuemv/Stellar_提线木偶.mp4
 
 动听漫歌,http://maomao.kandiantv.cn/douyu1.php?id=9564766
 周董乐台,http://maomao.kandiantv.cn/douyu1.php?id=7537296
@@ -3743,36 +3691,6 @@ Stellar 提线木偶,http://re.qiyuevod.com/ckuemv/Stellar_提线木偶.mp4
 华语翻唱,http://mmitv.top/pltv/huya.php?id=21241810
 惊艳翻唱,http://mmitv.top/pltv/huya.php?id=21241815
 韩国鼓手,http://mmitv.top/pltv/huya.php?id=21241800
-印度神曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg56m04gUokIbBswU.mp4
-欧美动感,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyMqg4gUo-uSR5AU.mp4
-动感歌曲A,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg45qY9wUonJT41gc.mp4
-动感歌曲B,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvZ6k4wUo0cGkhgQ.mp4
-动感歌曲C,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAghrTW4gUojKzXlwI.mp4
-动感歌曲D,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4
-Girls Gone Wild,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjd2w4gUou--ljQE.mp4
-韩国动感舞曲1,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4
-韩国动感舞曲2,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz-qc4gUo4vj-tQY.mp4
-泫雅-甩Nai舞,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp92c4gUovM-V_QU.mp4
-僵尸跳舞-David Jones,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-vqa4gUotM7X6wc.mp4
-Tara-lovey dovey,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw5Cv4gUoiZqZ4wE.mp4
-Alan Walker-Faded,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9qiM5gUo-tns8Qc.mp4
-Trouble Maker,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2fWv4gUo9JT7DQ.mp4
-Trouble Maker-Now,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvue_4gUomZa1kQU.mp4
-Stellar-Vibrato,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_O_-4gUo257EIg.mp4
-School-Flashback,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_PSc4gUoxOLZ3AM.mp4
-Sistar-Give,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkoe24gUo-OW_mwQ.mp4
-School-初恋,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgn-a24gUouMCswQY.mp4
-Dal Shabet,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3fq95QUoisPxpAM.mp4
-佳仁-Paradise Lost,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgy9j64wUogPOGEQ.mp4
-Hellovenus-StickySticky,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnIS24gUoptqYDQ.mp4
-Four Ladies-Move,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg85Do5QUow-P-wwI.mp4
-skart-短裙,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggoG24gUouOfNkAM.mp4
-AOA-Excuse Me,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmozg7AUolaeS8gU.mp4
-AOA-Like A Cat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ.mp4
-EXID - Every Night,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz-qc4gUo4vj-tQY.mp4
-EXID - L.I.E,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2abB4gUohpLdxAQ.mp4
-EXID - UP&DOWN,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzMnG4gUoroOQgQU.mp4
-EXID - 上下(中文版),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtd6M9QUokpHf7AY.mp4
 
 
 
@@ -3786,18 +3704,16 @@ ELEVEN3,rtmp://119.81.124.89/sat/md031
 魅力足球,http://58.34.204.67:9901/tsfile/live/1004_1.m3u8
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 魅力足球,http://dl.ye23.win/iptv/cbnbntv.php?id=mlzqHD
-高尔-夫网球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
+高尔夫网球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
 快乐垂钓,http://tv.ye23.win/iptv2025ok@gmail.com/2211af/ws.php?id=218
 重庆/汽摩,http://tv.ye23.win/iptv2025ok@gmail.com/2211af/ws.php?id=168
 先锋乒羽,http://tv.ye23.win/iptv2025ok@gmail.com/2211af/ws.php?id=329
-四海-钓鱼,http://tv.ye23.win/iptv2025ok@gmail.com/2211af/ws.php?id=shdy
+四海钓鱼,http://tv.ye23.win/iptv2025ok@gmail.com/2211af/ws.php?id=shdy
 ELEVEN1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
 ELEVEN2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
-CCTV5-,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-CCTV5-,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 广东体育,http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
-BRTV体育休闲,http://111.20.35.103:6610/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-辽宁-体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
+BRTV体育,http://111.20.35.103:6610/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
 欧洲体育2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
 欧洲体育1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
 极限运动,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
@@ -3808,9 +3724,6 @@ ELEVEN1 高清,http://61.221.81.93:8078/hls/25/80/esport.m3u8
 天空体育 足球,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
 天空体育 新闻,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
 天空体育 板球,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7343/index.m3u8
-
-
-
 
 
 🎹中广电台,#genre#
