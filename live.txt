@@ -1,4 +1,4 @@
-⏰更新0804,#genre#
+⏰更新0817,#genre#
 熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
@@ -527,33 +527,33 @@ CHC高清电影,https://php.61073736.repl.co/cqyx.php?id=chcgqdyHD
 
 
 🎡堆堆港剧,#genre#
-埋堆堆01,https://php.61073736.repl.co/huya.php?id=23749096
-埋堆堆02,https://php.61073736.repl.co/huya.php?id=23735126
-埋堆堆03,https://php.61073736.repl.co/huya.php?id=23740156
-埋堆堆04,https://php.61073736.repl.co/huya.php?id=23728660
-埋堆堆05,https://php.61073736.repl.co/huya.php?id=23865080
-埋堆堆06,https://php.61073736.repl.co/huya.php?id=23863804
-埋堆堆07,https://php.61073736.repl.co/huya.php?id=23864973
+封神榜,https://php.61073736.repl.co/huya.php?id=23749096
+天地争霸美猴王,https://php.61073736.repl.co/huya.php?id=23735126
+楚汉骄雄,https://php.61073736.repl.co/huya.php?id=23740156
+西游记,https://php.61073736.repl.co/huya.php?id=23728660
+鹿鼎记1998,https://php.61073736.repl.co/huya.php?id=23865080
+法证先锋3,https://php.61073736.repl.co/huya.php?id=23863804
+寻秦记,https://php.61073736.repl.co/huya.php?id=23864973
 埋堆堆08,https://php.61073736.repl.co/huya.php?id=23734169
-埋堆堆09,https://php.61073736.repl.co/huya.php?id=23865171
-埋堆堆10,https://php.61073736.repl.co/huya.php?id=23903130
-埋堆堆11,https://php.61073736.repl.co/huya.php?id=23860039
-埋堆堆12,https://php.61073736.repl.co/huya.php?id=23865142
-埋堆堆13,https://php.61073736.repl.co/huya.php?id=23903123
-埋堆堆14,https://php.61073736.repl.co/huya.php?id=23734183
-埋堆堆15,https://php.61073736.repl.co/huya.php?id=23734256
+神雕侠侣,https://php.61073736.repl.co/huya.php?id=23865171
+洗冤录,https://php.61073736.repl.co/huya.php?id=23903130
+陀枪师姐,https://php.61073736.repl.co/huya.php?id=23860039
+笑傲江湖,https://php.61073736.repl.co/huya.php?id=23865142
+天龙八部,https://php.61073736.repl.co/huya.php?id=23903123
+鹿鼎记1984,https://php.61073736.repl.co/huya.php?id=23734183
+使徒行者,https://php.61073736.repl.co/huya.php?id=23734256
 埋堆堆16,https://php.61073736.repl.co/huya.php?id=23903183
-埋堆堆17,https://php.61073736.repl.co/huya.php?id=23903196
+扫黄先锋,https://php.61073736.repl.co/huya.php?id=23903196
 埋堆堆18,https://php.61073736.repl.co/huya.php?id=23829543
-埋堆堆19,https://php.61073736.repl.co/huya.php?id=23728674
-埋堆堆20,https://php.61073736.repl.co/huya.php?id=23865036
-埋堆堆21,https://php.61073736.repl.co/huya.php?id=23749083
+大唐双龙传,https://php.61073736.repl.co/huya.php?id=23728674
+金枝欲孽,https://php.61073736.repl.co/huya.php?id=23865036
+创世纪,https://php.61073736.repl.co/huya.php?id=23749083
 埋堆堆22,https://php.61073736.repl.co/huya.php?id=23865164
 埋堆堆23,https://php.61073736.repl.co/huya.php?id=23863818
 埋堆堆24,https://php.61073736.repl.co/huya.php?id=23865058
 埋堆堆25,https://php.61073736.repl.co/huya.php?id=23860049
-埋堆堆26,https://php.61073736.repl.co/huya.php?id=23734246
-埋堆堆27,https://php.61073736.repl.co/huya.php?id=23865161
+倚天屠龙记,https://php.61073736.repl.co/huya.php?id=23734246
+大时代,https://php.61073736.repl.co/huya.php?id=23865161
 埋堆堆28,https://php.61073736.repl.co/huya.php?id=23746486
 埋堆堆29,https://php.61073736.repl.co/huya.php?id=23829447
 埋堆堆30,https://php.61073736.repl.co/huya.php?id=23863778
