@@ -1,5 +1,6 @@
-⏰更新0817,#genre#
+⏰更新0829,#genre#
 熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
+成都熊猫基地,https://gcwbcdtxy.liveplay.myqcloud.com/gcwbcd/cdrmipanda_1/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
@@ -52,7 +53,52 @@ GREAT HUNTER - 4K,https://www.youtube.com/watch?v=vQP8AwAFzI8
 Most Beautiful Places 12K,https://www.youtube.com/watch?v=Rse-E5tARaY
 4K African Animal,https://www.youtube.com/watch?v=rkPCR6Ujtak
 
-
+🌏码上油管,#genre#
+三立INEWS,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+寰宇新闻,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+东森财经新闻,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+运通财经,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+信大,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+DWNEWS,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+中视新闻,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+K-POP,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+民视新闻,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+CCTV4中文国际,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+凤凰资讯,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+ABCNEWS,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+台视新闻,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+天才冲冲冲,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+ASTROAWANI,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
+中天新闻,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+TokyoShibuya「东京涩谷」,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
+大爱,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+TVBS网路新闻,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+三立NEWS+,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+CBNNEWS,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+INDIATODAY,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
+FRANCE24,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+NBCNEWS,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+凤凰中文,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+TBSNEWS,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+大爱2,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+ANNNEWS,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
+中天新闻「循环直播」,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+CNA,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+HTBNEWS,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+国会频道1,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
+国会频道2,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
+123GOLIVE,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
+半岛新闻,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
+KBSNEWS,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
+KANSAINEWS,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
+东森幼幼歌曲,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+小猪佩奇,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
+动画1,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+动画2,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
+儿童歌曲1,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
+儿童歌曲2,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
+镜新闻,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+Taiwan+,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 
 🗻央视频道,#genre#
 凤凰中文,https://php.61073736.repl.co/sxg.php?id=test1_4000
