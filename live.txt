@@ -1,4 +1,6 @@
 ⏰更新0829,#genre#
+凤凰中文,http://192.168.31.99:5678/sxg.php?id=test1_4000
+凤凰资讯,http://192.168.31.99:5678/sxg.php?id=test2_4000
 熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
 成都熊猫基地,https://gcwbcdtxy.liveplay.myqcloud.com/gcwbcd/cdrmipanda_1/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
