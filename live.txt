@@ -1,8 +1,9 @@
 ⏰更新0829,#genre#
-凤凰中文,http://192.168.31.99:5678/sxg.php?id=test1_4000
-凤凰资讯,http://192.168.31.99:5678/sxg.php?id=test2_4000
+
 熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
 成都熊猫基地,https://gcwbcdtxy.liveplay.myqcloud.com/gcwbcd/cdrmipanda_1/index.m3u8
+凤凰中文,http://192.168.31.99:5678/sxg.php?id=test1_4000
+凤凰资讯,http://192.168.31.99:5678/sxg.php?id=test2_4000
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
@@ -16,6 +17,45 @@ TVBS新闻,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603
 海峡两岸,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/93dafada4e35457788319f02f5063529/1200.m3u8
 
 🌏油管代理,#genre#
+TVBS新闻,http://192.168.31.99:5678/youtube.php?id=2mCSYvcfhtc
+中天新闻,http://192.168.31.99:5678/youtube.php?id=oIgbl7t0S_w
+三立新闻,http://192.168.31.99:5678/youtube.php?id=oZdzzvxTfUY
+东森新闻,http://192.168.31.99:5678/youtube.php?id=S5WOGu2HSes
+寰宇新闻,http://192.168.31.99:5678/youtube.php?id=B7Zp3d6xXWw
+民视新闻,http://192.168.31.99:5678/youtube.php?id=ylYJSBUgaMA
+华视新闻,http://192.168.31.99:5678/youtube.php?id=wM0g8EoUZ_E
+公视新闻,http://192.168.31.99:5678/youtube.php?id=quwqlazU-c8
+台视新闻,http://192.168.31.99:5678/youtube.php?id=xL0ch83RAK8
+中视新闻,http://192.168.31.99:5678/youtube.php?id=TCnaIE_SAtM
+TVBS Live,http://192.168.31.99:5678/youtube.php?id=m_dhMSvUCIc
+TVBS 56,http://192.168.31.99:5678/youtube.php?id=YvdcZ_jpLXE
+中天新闻2台,http://192.168.31.99:5678/youtube.php?id=WPfPjbOLNfE
+寰宇新闻台湾,http://192.168.31.99:5678/youtube.php?id=UcTIv4ZaE5Y
+凤凰资讯台,http://192.168.31.99:5678/youtube.php?id=if6yQq_JJyY
+东森直播,http://192.168.31.99:5678/youtube.php?id=R2iMq5LKXco
+东森财经,http://192.168.31.99:5678/youtube.php?id=WHEPzbFA3hw
+三立iNEWS,http://192.168.31.99:5678/youtube.php?id=CKjSm5ZeehE
+三立海外,http://192.168.31.99:5678/youtube.php?id=FoBfXvlOR6I
+TaiwanPlus,http://192.168.31.99:5678/youtube.php?id=dZp87qnWelE
+镜新闻,http://192.168.31.99:5678/youtube.php?id=5n0y6b0Q25o
+东京都-新宿,http://192.168.31.99:5678/youtube.php?id=DjdUEyjx8GM
+台湾地震监视,http://192.168.31.99:5678/youtube.php?id=Owke6Quk7T0
+新唐人,http://192.168.31.99:5678/youtube.php?id=WIhgU_mc05A
+信大电视台,http://192.168.31.99:5678/youtube.php?id=AQymzwl3uSk
+NBC NEW,http://192.168.31.99:5678/youtube.php?id=0IUbD_4ytuo
+DW,http://192.168.31.99:5678/youtube.php?id=pqabxBKzZ6M
+FRANCE 24,http://192.168.31.99:5678/youtube.php?id=h3MuIUNCCzI
+Sky News,http://192.168.31.99:5678/youtube.php?id=9Auq9mYxFEE
+ABC News,http://192.168.31.99:5678/youtube.php?id=w_Ma8oQLmSM
+Euronews,http://192.168.31.99:5678/youtube.php?id=pykpO5kQJ98
+CNA,http://192.168.31.99:5678/youtube.php?id=XWq5kBlakcQ
+National Geographic,http://192.168.31.99:5678/youtube.php?id=306xLRnW3Cc
+Nat Geo WILD,http://192.168.31.99:5678/youtube.php?id=6zGV59Ldp3s
+ANIMALS OF AFRICA 4K,http://192.168.31.99:5678/youtube.php?id=XHI_U7suyxg
+GREAT HUNTER - 4K,http://192.168.31.99:5678/youtube.php?id=vQP8AwAFzI8
+Most Beautiful Places 12K,http://192.168.31.99:5678/youtube.php?id=Rse-E5tARaY
+4K African Animal,http://192.168.31.99:5678/youtube.php?id=rkPCR6Ujtak
+
 TVBS新闻,https://www.youtube.com/watch?v=2mCSYvcfhtc
 中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
 三立新闻,https://www.youtube.com/watch?v=oZdzzvxTfUY
@@ -103,6 +143,28 @@ KANSAINEWS,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/
 Taiwan+,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 
 🗻央视频道,#genre#
+CCTV1综合,http://192.168.31.99:5678/bestv.php?id=cctv1hd8m/8000000
+CCTV2财经,http://192.168.31.99:5678/bestv.php?id=cctv2hd8m/8000000
+CCTV3综艺,http://192.168.31.99:5678/bestv.php?id=cctv38m/8000000
+CCTV4中文国际,http://192.168.31.99:5678/bestv.php?id=cctv4hd8m/8000000
+CCTV5体育,http://192.168.31.99:5678/bestv.php?id=cctv58m/8000000
+CCTV5+,http://192.168.31.99:5678/bestv.php?id=cctv5phd8m/8000000
+CCTV6电影,http://192.168.31.99:5678/bestv.php?id=cctv6hd8m/8000000
+CCTV7国防军事,http://192.168.31.99:5678/bestv.php?id=cctv7hd8m/8000000
+CCTV8电视剧,http://192.168.31.99:5678/bestv.php?id=cctv8hd8m/8000000
+CCTV9纪录,http://192.168.31.99:5678/bestv.php?id=cctv9hd8m/8000000
+CCTV10科教,http://192.168.31.99:5678/bestv.php?id=cctv10hd8m/8000000
+CCTV11戏曲,http://192.168.31.99:5678/bestv.php?id=cctv11hd8m/8000000
+CCTV12社会与法,http://192.168.31.99:5678/bestv.php?id=cctv12hd8m/8000000
+CCTV13新闻,http://192.168.31.99:5678/bestv.php?id=cctv13xwhd8m/8000000
+CCTV14少儿,http://192.168.31.99:5678/bestv.php?id=cctvsehd8m/8000000
+CCTV15音乐,http://192.168.31.99:5678/bestv.php?id=cctv15hd8m/8000000
+CCTV16奥林匹克,http://192.168.31.99:5678/bestv.php?id=cctv16hd8m/8000000
+CCTV17农业农村,http://192.168.31.99:5678/bestv.php?id=cctv17hd8m/8000000
+CCTV16(4K),http://192.168.31.99:5678/bestv.php?id=cctv16hd4k/15000000
+CCTV4K,http://192.168.31.99:5678/bestv.php?id=cctv4k/15000000
+欢笑剧场,http://192.168.31.99:5678/bestv.php?id=hxjc4k/15000000
+
 凤凰中文,http://192.168.31.99:5678/sxg.php?id=test1_4000
 凤凰资讯,http://192.168.31.99:5678/sxg.php?id=test2_4000
 CCTV1综合,http://192.168.31.99:5678/sxg.php?id=CCTV-1H265_4000
@@ -238,6 +300,78 @@ CETV4,https://php.61073736.repl.co/cqyx.php?id=cetv-4SD
 
 
 💙卫视频道,#genre#
+江苏卫视,http://192.168.31.99:5678/bestv.php?id=jswshd8m/8000000
+广西卫视,http://192.168.31.99:5678/bestv.php?id=gxwshd8m/8000000
+四川卫视,http://192.168.31.99:5678/bestv.php?id=scwshd/8000000
+湖南卫视,http://192.168.31.99:5678/bestv.php?id=hunanwshd8m/8000000
+浙江卫视,http://192.168.31.99:5678/bestv.php?id=zjwshd8m/8000000
+东方卫视,http://192.168.31.99:5678/bestv.php?id=dfwshd8m/8000000
+北京卫视,http://192.168.31.99:5678/bestv.php?id=bjwshd8m/8000000
+天津卫视,http://192.168.31.99:5678/bestv.php?id=tjwshd8m/8000000
+辽宁卫视,http://192.168.31.99:5678/bestv.php?id=lnwshd8m/8000000
+安徽卫视,http://192.168.31.99:5678/bestv.php?id=ahwshd8m/8000000
+黑龙江卫视,http://192.168.31.99:5678/bestv.php?id=hljwshd8m/8000000
+广东卫视,http://192.168.31.99:5678/bestv.php?id=gdwshd8m/8000000
+深圳卫视,http://192.168.31.99:5678/bestv.php?id=szwshd8m/8000000
+湖北卫视,http://192.168.31.99:5678/bestv.php?id=hubeiws8m/8000000
+吉林卫视,http://192.168.31.99:5678/bestv.php?id=jlwshd8m/8000000
+山东卫视,http://192.168.31.99:5678/bestv.php?id=sdws8m/8000000
+江西卫视,http://192.168.31.99:5678/bestv.php?id=jxws8m/8000000
+河南卫视,http://192.168.31.99:5678/bestv.php?id=hnwshd8m/8000000
+河北卫视,http://192.168.31.99:5678/bestv.php?id=hbwshd8m/8000000
+甘肃卫视,http://192.168.31.99:5678/bestv.php?id=gswshd8m/8000000
+重庆卫视,http://192.168.31.99:5678/bestv.php?id=cqws8m/8000000
+东南卫视,http://192.168.31.99:5678/bestv.php?id=dnwshd8m/8000000
+云南卫视,http://192.168.31.99:5678/bestv.php?id=ynwshd8m/8000000
+贵州卫视,http://192.168.31.99:5678/bestv.php?id=gzwshd8m/8000000
+海南卫视,http://192.168.31.99:5678/bestv.php?id=hainanwshd8m/8000000
+欢笑剧场,http://192.168.31.99:5678/bestv.php?id=hxjc8m/8000000
+劲爆体育,http://192.168.31.99:5678/bestv.php?id=jbtyhd8m/8000000
+快乐垂钓,http://192.168.31.99:5678/bestv.php?id=klcd8m/8000000
+金鹰纪实,http://192.168.31.99:5678/bestv.php?id=jyjs8m/8000000
+戏曲精选,http://192.168.31.99:5678/bestv.php?id=xqjx8m/8000000
+上海第一财经,http://192.168.31.99:5678/bestv.php?id=dycjhd8m/8000000
+上视新闻,http://192.168.31.99:5678/bestv.php?id=xwzhhd8m/8000000
+上海都市,http://192.168.31.99:5678/bestv.php?id=dshd8m/8000000
+上海纪实,http://192.168.31.99:5678/bestv.php?id=jspdhd/4000000
+东方影视,http://192.168.31.99:5678/bestv.php?id=dfyshd8m/8000000
+五星体育,http://192.168.31.99:5678/bestv.php?id=wxtyhd8m/8000000
+上视外语,http://192.168.31.99:5678/bestv.php?id=icshd8m/8000000
+七彩戏剧,http://192.168.31.99:5678/bestv.php?id=qcxjhd8m/8000000
+上海教育,http://192.168.31.99:5678/bestv.php?id=setvhd/8000000
+全纪实,http://192.168.31.99:5678/bestv.php?id=qjshd8m/8000000
+生活时尚,http://192.168.31.99:5678/bestv.php?id=shss8m/8000000
+新视觉,http://192.168.31.99:5678/bestv.php?id=xsjhd8m/8000000
+游戏风云,http://192.168.31.99:5678/bestv.php?id=yxfy8m/8000000
+热门综艺,http://192.168.31.99:5678/bestv.php?id=rmzy8m/8000000
+超级体育,http://192.168.31.99:5678/bestv.php?id=qcsj8m/8000000
+健康养生,http://192.168.31.99:5678/bestv.php?id=jkys8m/8000000
+百变课堂,http://192.168.31.99:5678/bestv.php?id=bbkt8m/8000000
+看天下精选,http://192.168.31.99:5678/bestv.php?id=ktxjx8m/8000000
+华语影院,http://192.168.31.99:5678/bestv.php?id=hyyy8m/8000000
+电竞天堂,http://192.168.31.99:5678/bestv.php?id=djtt8m/8000000
+青春动漫,http://192.168.31.99:5678/bestv.php?id=qcdm8m/8000000
+宝宝动画,http://192.168.31.99:5678/bestv.php?id=bbdh8m/8000000
+星光影院,http://192.168.31.99:5678/bestv.php?id=xgyy8m/8000000
+谍战剧场,http://192.168.31.99:5678/bestv.php?id=dzjc8m/8000000
+全球大片,http://192.168.31.99:5678/bestv.php?id=qqdp8m/8000000
+热门剧场,http://192.168.31.99:5678/bestv.php?id=rmjc8m/8000000
+陶瓷高清,http://192.168.31.99:5678/bestv.php?id=taocihd/8000000
+中国教育-1,http://192.168.31.99:5678/bestv.php?id=zgjy1t8m/8000000
+中国教育-4,http://192.168.31.99:5678/bestv.php?id=zgjy4hd8m/8000000
+卡酷少儿,http://192.168.31.99:5678/bestv.php?id=kkse8m/8000000
+纪实科教,http://192.168.31.99:5678/bestv.php?id=dajs8m/8000000
+茶频道,http://192.168.31.99:5678/bestv.php?id=cpdhdavs8m/8000000
+足球高清,http://192.168.31.99:5678/bestv.php?id=zqpd8m/8000000
+炫动卡通,http://192.168.31.99:5678/bestv.php?id=hhxd8m/8000000
+东方财经,http://192.168.31.99:5678/bestv.php?id=dfcjhd8m/8000000
+都市剧场,http://192.168.31.99:5678/bestv.php?id=dsjc8m/8000000
+动漫秀场,http://192.168.31.99:5678/bestv.php?id=dmxc8m/8000000
+法治天地,http://192.168.31.99:5678/bestv.php?id=fztd8m/8000000
+金色学堂,http://192.168.31.99:5678/bestv.php?id=jingsepd8m/8000000
+魅力足球,http://192.168.31.99:5678/bestv.php?id=mlyyhd8m/8000000
+
+
 江苏卫视,http://192.168.31.99:5678/sxg.php?id=jswsH265_4000
 湖南卫视,http://192.168.31.99:5678/sxg.php?id=hnwsH265_4000
 浙江卫视,http://192.168.31.99:5678/sxg.php?id=zjwsH265_4000
