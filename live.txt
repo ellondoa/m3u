@@ -17,6 +17,45 @@ TVBS新闻,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603
 海峡两岸,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/93dafada4e35457788319f02f5063529/1200.m3u8
 
 🌏油管代理,#genre#
+TVBS新闻,http://192.168.31.99:5678/ytb.php?id=2mCSYvcfhtc
+中天新闻,http://192.168.31.99:5678/ytb.php?id=oIgbl7t0S_w
+三立新闻,http://192.168.31.99:5678/ytb.php?id=oZdzzvxTfUY
+东森新闻,http://192.168.31.99:5678/ytb.php?id=S5WOGu2HSes
+寰宇新闻,http://192.168.31.99:5678/ytb.php?id=B7Zp3d6xXWw
+民视新闻,http://192.168.31.99:5678/ytb.php?id=ylYJSBUgaMA
+华视新闻,http://192.168.31.99:5678/ytb.php?id=wM0g8EoUZ_E
+公视新闻,http://192.168.31.99:5678/ytb.php?id=quwqlazU-c8
+台视新闻,http://192.168.31.99:5678/ytb.php?id=xL0ch83RAK8
+中视新闻,http://192.168.31.99:5678/ytb.php?id=TCnaIE_SAtM
+TVBS Live,http://192.168.31.99:5678/ytb.php?id=m_dhMSvUCIc
+TVBS 56,http://192.168.31.99:5678/ytb.php?id=YvdcZ_jpLXE
+中天新闻2台,http://192.168.31.99:5678/ytb.php?id=WPfPjbOLNfE
+寰宇新闻台湾,http://192.168.31.99:5678/ytb.php?id=UcTIv4ZaE5Y
+凤凰资讯台,http://192.168.31.99:5678/ytb.php?id=if6yQq_JJyY
+东森直播,http://192.168.31.99:5678/ytb.php?id=R2iMq5LKXco
+东森财经,http://192.168.31.99:5678/ytb.php?id=WHEPzbFA3hw
+三立iNEWS,http://192.168.31.99:5678/ytb.php?id=CKjSm5ZeehE
+三立海外,http://192.168.31.99:5678/ytb.php?id=FoBfXvlOR6I
+TaiwanPlus,http://192.168.31.99:5678/ytb.php?id=dZp87qnWelE
+镜新闻,http://192.168.31.99:5678/ytb.php?id=5n0y6b0Q25o
+东京都-新宿,http://192.168.31.99:5678/ytb.php?id=DjdUEyjx8GM
+台湾地震监视,http://192.168.31.99:5678/ytb.php?id=Owke6Quk7T0
+新唐人,http://192.168.31.99:5678/ytb.php?id=WIhgU_mc05A
+信大电视台,http://192.168.31.99:5678/ytb.php?id=AQymzwl3uSk
+NBC NEW,http://192.168.31.99:5678/ytb.php?id=0IUbD_4ytuo
+DW,http://192.168.31.99:5678/ytb.php?id=pqabxBKzZ6M
+FRANCE 24,http://192.168.31.99:5678/ytb.php?id=h3MuIUNCCzI
+Sky News,http://192.168.31.99:5678/ytb.php?id=9Auq9mYxFEE
+ABC News,http://192.168.31.99:5678/ytb.php?id=w_Ma8oQLmSM
+Euronews,http://192.168.31.99:5678/ytb.php?id=pykpO5kQJ98
+CNA,http://192.168.31.99:5678/ytb.php?id=XWq5kBlakcQ
+National Geographic,http://192.168.31.99:5678/ytb.php?id=306xLRnW3Cc
+Nat Geo WILD,http://192.168.31.99:5678/ytb.php?id=6zGV59Ldp3s
+ANIMALS OF AFRICA 4K,http://192.168.31.99:5678/ytb.php?id=XHI_U7suyxg
+GREAT HUNTER - 4K,http://192.168.31.99:5678/ytb.php?id=vQP8AwAFzI8
+Most Beautiful Places 12K,http://192.168.31.99:5678/ytb.php?id=Rse-E5tARaY
+4K African Animal,http://192.168.31.99:5678/ytb.php?id=rkPCR6Ujtak
+
 TVBS新闻,http://192.168.31.99:5678/youtube.php?id=2mCSYvcfhtc
 中天新闻,http://192.168.31.99:5678/youtube.php?id=oIgbl7t0S_w
 三立新闻,http://192.168.31.99:5678/youtube.php?id=oZdzzvxTfUY
