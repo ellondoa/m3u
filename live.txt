@@ -1,5 +1,4 @@
 ⏰更新0912,#genre#
-
 熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
 成都熊猫基地,https://gcwbcdtxy.liveplay.myqcloud.com/gcwbcd/cdrmipanda_1/index.m3u8
 凤凰中文,http://192.168.31.99:5678/sxg.php?id=test1_4000
@@ -12,6 +11,7 @@
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 TVBS新闻,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
+李子柒,http://192.168.31.99:5678/douyu.php?id=2901080
 李子柒,http://lxajh.top/tv/douyu.php?id=2901080
 小莉帮忙,http://media2.hndt.com/data_01/1/3/2023/01/15/1f2b16f5ca922e4f442d54b7ea6c9643.mp4
 海峡两岸,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/93dafada4e35457788319f02f5063529/1200.m3u8
