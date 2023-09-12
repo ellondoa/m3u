@@ -1,5 +1,4 @@
 ⏰更新0829,#genre#
-测试,http://192.168.31.99:5678/allinone.php
 凤凰中文,http://192.168.31.99:5678/sxg.php?id=test1_4000
 凤凰资讯,http://192.168.31.99:5678/sxg.php?id=test2_4000
 熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
