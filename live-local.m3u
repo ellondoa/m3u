@@ -2,81 +2,81 @@
 
 
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="油管直播",TVBS Live
-http://192.168.31.99:35455/youtube/m_dhMSvUCIc
+http://192.168.31.99:5678/youtube.php?id=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="油管直播",TVBS 56
-http://192.168.31.99:35455/youtube/YvdcZ_jpLXE
+http://192.168.31.99:5678/youtube.php?id=YvdcZ_jpLXE
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="油管直播",TVBS新闻
-http://192.168.31.99:35455/youtube/2mCSYvcfhtc
+http://192.168.31.99:5678/youtube.php?id=2mCSYvcfhtc
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/中天综合台.png" group-title="油管直播",中天新闻
-http://192.168.31.99:35455/youtube/oIgbl7t0S_w
+http://192.168.31.99:5678/youtube.php?id=oIgbl7t0S_w
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="油管直播",三立新闻
-http://192.168.31.99:35455/youtube/oZdzzvxTfUY
+http://192.168.31.99:5678/youtube.php?id=oZdzzvxTfUY
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="油管直播",东森新闻
-http://192.168.31.99:35455/youtube/S5WOGu2HSes
+http://192.168.31.99:5678/youtube.php?id=S5WOGu2HSes
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/寰宇新闻台.png" group-title="油管直播",寰宇新闻
-http://192.168.31.99:35455/youtube/B7Zp3d6xXWw
+http://192.168.31.99:5678/youtube.php?id=B7Zp3d6xXWw
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="油管直播",民视新闻
-http://192.168.31.99:35455/youtube/ylYJSBUgaMA
+http://192.168.31.99:5678/youtube.php?id=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/华视新闻台.png" group-title="油管直播",华视新闻
-http://192.168.31.99:35455/youtube/wM0g8EoUZ_E
+http://192.168.31.99:5678/youtube.php?id=wM0g8EoUZ_E
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/公视新闻台.png" group-title="油管直播",公视新闻
-http://192.168.31.99:35455/youtube/quwqlazU-c8
+http://192.168.31.99:5678/youtube.php?id=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="油管直播",台视新闻
-http://192.168.31.99:35455/youtube/xL0ch83RAK8
+http://192.168.31.99:5678/youtube.php?id=xL0ch83RAK8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/中视新闻台.png" group-title="油管直播",中视新闻
-http://192.168.31.99:35455/youtube/TCnaIE_SAtM
+http://192.168.31.99:5678/youtube.php?id=TCnaIE_SAtM
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/中天新闻2台.png" group-title="油管直播",中天新闻2台
-http://192.168.31.99:35455/youtube/WPfPjbOLNfE
+http://192.168.31.99:5678/youtube.php?id=WPfPjbOLNfE
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="油管直播",寰宇新闻台湾
-http://192.168.31.99:35455/youtube/UcTIv4ZaE5Y
+http://192.168.31.99:5678/youtube.php?id=UcTIv4ZaE5Y
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰资讯台.png" group-title="油管直播",凤凰资讯台
-http://192.168.31.99:35455/youtube/if6yQq_JJyY
+http://192.168.31.99:5678/youtube.php?id=if6yQq_JJyY
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="油管直播",东森直播
-http://192.168.31.99:35455/youtube/R2iMq5LKXco
+http://192.168.31.99:5678/youtube.php?id=R2iMq5LKXco
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/东森财经新闻台.png" group-title="油管直播",东森财经
-http://192.168.31.99:35455/youtube/WHEPzbFA3hw
+http://192.168.31.99:5678/youtube.php?id=WHEPzbFA3hw
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/三立财经新闻台.png" group-title="油管直播",三立iNEWS
-http://192.168.31.99:35455/youtube/CKjSm5ZeehE
+http://192.168.31.99:5678/youtube.php?id=CKjSm5ZeehE
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="油管直播",三立海外
-http://192.168.31.99:35455/youtube/FoBfXvlOR6I
+http://192.168.31.99:5678/youtube.php?id=FoBfXvlOR6I
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",TaiwanPlus
-http://192.168.31.99:35455/youtube/dZp87qnWelE
+http://192.168.31.99:5678/youtube.php?id=dZp87qnWelE
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",镜新闻
-http://192.168.31.99:35455/youtube/5n0y6b0Q25o
+http://192.168.31.99:5678/youtube.php?id=5n0y6b0Q25o
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",东京都-新宿
-http://192.168.31.99:35455/youtube/DjdUEyjx8GM
+http://192.168.31.99:5678/youtube.php?id=DjdUEyjx8GM
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",台湾地震监视
-http://192.168.31.99:35455/youtube/Owke6Quk7T0
+http://192.168.31.99:5678/youtube.php?id=Owke6Quk7T0
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",新唐人
-http://192.168.31.99:35455/youtube/WIhgU_mc05A
+http://192.168.31.99:5678/youtube.php?id=WIhgU_mc05A
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",信大电视台
-http://192.168.31.99:35455/youtube/AQymzwl3uSk
+http://192.168.31.99:5678/youtube.php?id=AQymzwl3uSk
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",NBC NEW
-http://192.168.31.99:35455/youtube/0IUbD_4ytuo
+http://192.168.31.99:5678/youtube.php?id=0IUbD_4ytuo
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DW.png" group-title="油管直播",DW
-http://192.168.31.99:35455/youtube/pqabxBKzZ6M
+http://192.168.31.99:5678/youtube.php?id=pqabxBKzZ6M
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/FRANCE24.png" group-title="油管直播",FRANCE 24
-http://192.168.31.99:35455/youtube/h3MuIUNCCzI
+http://192.168.31.99:5678/youtube.php?id=h3MuIUNCCzI
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",Sky News
-http://192.168.31.99:35455/youtube/9Auq9mYxFEE
+http://192.168.31.99:5678/youtube.php?id=9Auq9mYxFEE
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",ABC News
-http://192.168.31.99:35455/youtube/w_Ma8oQLmSM
+http://192.168.31.99:5678/youtube.php?id=w_Ma8oQLmSM
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/Euronews.png" group-title="油管直播",Euronews
-http://192.168.31.99:35455/youtube/pykpO5kQJ98
+http://192.168.31.99:5678/youtube.php?id=pykpO5kQJ98
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CNA.png" group-title="油管直播",CNA
-http://192.168.31.99:35455/youtube/XWq5kBlakcQ
+http://192.168.31.99:5678/youtube.php?id=XWq5kBlakcQ
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/国家地理.png" group-title="油管直播",National Geographic
-http://192.168.31.99:35455/youtube/306xLRnW3Cc
+http://192.168.31.99:5678/youtube.php?id=306xLRnW3Cc
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",Nat Geo WILD
-http://192.168.31.99:35455/youtube/6zGV59Ldp3s
+http://192.168.31.99:5678/youtube.php?id=6zGV59Ldp3s
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",ANIMALS OF AFRICA 4K
-http://192.168.31.99:35455/youtube/XHI_U7suyxg
+http://192.168.31.99:5678/youtube.php?id=XHI_U7suyxg
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",GREAT HUNTER - 4K
-http://192.168.31.99:35455/youtube/vQP8AwAFzI8
+http://192.168.31.99:5678/youtube.php?id=vQP8AwAFzI8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",Most Beautiful Places 12K
-http://192.168.31.99:35455/youtube/Rse-E5tARaY
+http://192.168.31.99:5678/youtube.php?id=Rse-E5tARaY
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",4K African Animal
-http://192.168.31.99:35455/youtube/rkPCR6Ujtak
+http://192.168.31.99:5678/youtube.php?id=rkPCR6Ujtak
 
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="BesTV",CCTV1
