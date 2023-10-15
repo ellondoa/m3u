@@ -185,11 +185,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: jichang.61073736.workers.dev		#sni域名，与下面的host一致
+  servername: cf2.61073736.workers.dev		#sni域名，与下面的host一致
   ws-opts:
     path: "/?ed=2048"                              	#" "内自定义的path路径
     headers:
-      Host: jichang.61073736.workers.dev		#host域名，与上面的servername一致
+      Host: cf2.61073736.workers.dev		#host域名，与上面的servername一致
 
 #（三区）==============================（代理分流）
 #分流组可自行创建添加，proxies参数下的name节点名称，按需求自行增减，确保出现的name节点名称在二区代理协议中可查找
