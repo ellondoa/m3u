@@ -78,6 +78,118 @@ http://192.168.31.99:35455/youtube/Rse-E5tARaY
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",4K African Animal
 http://192.168.31.99:35455/youtube/rkPCR6Ujtak
 
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/三立财经新闻台.png" group-title="码上油管",三立INEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="码上油管",寰宇新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/东森财经.png" group-title="码上油管",东森财经新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/MOMO1.png" group-title="码上油管",MOMO1
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/MOMO2.png" group-title="码上油管",MOMO2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/运通财经.png" group-title="码上油管",运通财经
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/信大.png" group-title="码上油管",信大
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DWNEWS.png" group-title="码上油管",DWNEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" group-title="码上油管",中视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/华视新闻.png" group-title="码上油管",华视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/半岛新闻.png" group-title="码上油管",半岛阿拉伯
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/ANNNews.png" group-title="码上油管",ANNNews
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/K-POP.png" group-title="码上油管",K-POP
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/民视新闻.png" group-title="码上油管",民视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="码上油管",CCTV4中文国际
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="码上油管",凤凰资讯
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/ABCNEWS.png" group-title="码上油管",ABCNEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/台视新闻.png" group-title="码上油管",台视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/天才冲冲冲.png" group-title="码上油管",天才冲冲冲
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/ASTROAWANI.png" group-title="码上油管",ASTROAWANI
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="码上油管",中天新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TokyoShibuya.png" group-title="码上油管",东京涩谷
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/大爱.png" group-title="码上油管",大爱
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="码上油管",TVBS网路新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/三立NEWS.png" group-title="码上油管",三立NEWS+
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CBNNEWS.png" group-title="码上油管",CBNNEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/INDIATODAY.png" group-title="码上油管",INDIATODAY
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/FRANCE24.png" group-title="码上油管",FRANCE24
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/NBCNEWS.png" group-title="码上油管",NBCNEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="码上油管",凤凰中文
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TBSNEWS.png" group-title="码上油管",TBSNEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/大爱2.png" group-title="码上油管",大爱2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/ANNNEWS.png" group-title="码上油管",ANNNEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="码上油管",中天新闻「循环」
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CNA.png" group-title="码上油管",CNA
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HTBNEWS.png" group-title="码上油管",HTBNEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/国会频道1.png" group-title="码上油管",国会频道1
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/国会频道2.png" group-title="码上油管",国会频道2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/123GOLIVE.png" group-title="码上油管",123GOLIVE
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/半岛新闻.png" group-title="码上油管",半岛新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/KBSNEWS.png" group-title="码上油管",KBSNEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/KANSAINEWS.png" group-title="码上油管",KANSAINEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/东森幼幼歌曲.png" group-title="码上油管",东森幼幼歌曲
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/小猪佩奇.png" group-title="码上油管",小猪佩奇
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/动画1.png" group-title="码上油管",动画1
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/动画2.png" group-title="码上油管",动画2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/儿童歌曲1.png" group-title="码上油管",儿童歌曲1
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/儿童歌曲2.png" group-title="码上油管",儿童歌曲2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/镜新闻.png" group-title="码上油管",镜新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" group-title="码上油管",中视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CRUX.png" group-title="码上油管",CRUX
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TimesNetwork.png" group-title="码上油管",TimesNetwork
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/八大电视.png" group-title="码上油管",八大电视
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/舒缓音乐.png" group-title="码上油管",舒缓音乐
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/Taiwan+.png" group-title="码上油管",Taiwan+
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+
+
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="BesTV",CCTV1
 http://192.168.31.99:5678/bestv.php?id=cctv1hd8m/8000000
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="BesTV",CCTV2
