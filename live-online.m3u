@@ -1,83 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,http://epg.51zmt.top:8000/e.xml.gz,https://epg.112114.xyz/pp.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="油管直播",TVBS Live
-https://go.61073736.repl.co/youtube/m_dhMSvUCIc
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="油管直播",TVBS 56
-https://go.61073736.repl.co/youtube/YvdcZ_jpLXE
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="油管直播",TVBS新闻
-https://go.61073736.repl.co/youtube/2mCSYvcfhtc
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/中天综合台.png" group-title="油管直播",中天新闻
-https://go.61073736.repl.co/youtube/oIgbl7t0S_w
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="油管直播",三立新闻
-https://go.61073736.repl.co/youtube/oZdzzvxTfUY
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="油管直播",东森新闻
-https://go.61073736.repl.co/youtube/S5WOGu2HSes
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/寰宇新闻台.png" group-title="油管直播",寰宇新闻
-https://go.61073736.repl.co/youtube/B7Zp3d6xXWw
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="油管直播",民视新闻
-https://go.61073736.repl.co/youtube/ylYJSBUgaMA
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/华视新闻台.png" group-title="油管直播",华视新闻
-https://go.61073736.repl.co/youtube/wM0g8EoUZ_E
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/公视新闻台.png" group-title="油管直播",公视新闻
-https://go.61073736.repl.co/youtube/quwqlazU-c8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="油管直播",台视新闻
-https://go.61073736.repl.co/youtube/xL0ch83RAK8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/中视新闻台.png" group-title="油管直播",中视新闻
-https://go.61073736.repl.co/youtube/TCnaIE_SAtM
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/中天新闻2台.png" group-title="油管直播",中天新闻2台
-https://go.61073736.repl.co/youtube/WPfPjbOLNfE
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="油管直播",寰宇新闻台湾
-https://go.61073736.repl.co/youtube/UcTIv4ZaE5Y
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰资讯台.png" group-title="油管直播",凤凰资讯台
-https://go.61073736.repl.co/youtube/if6yQq_JJyY
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="油管直播",东森直播
-https://go.61073736.repl.co/youtube/R2iMq5LKXco
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/东森财经新闻台.png" group-title="油管直播",东森财经
-https://go.61073736.repl.co/youtube/WHEPzbFA3hw
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/三立财经新闻台.png" group-title="油管直播",三立iNEWS
-https://go.61073736.repl.co/youtube/CKjSm5ZeehE
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="油管直播",三立海外
-https://go.61073736.repl.co/youtube/FoBfXvlOR6I
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",TaiwanPlus
-https://go.61073736.repl.co/youtube/dZp87qnWelE
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",镜新闻
-https://go.61073736.repl.co/youtube/5n0y6b0Q25o
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",东京都-新宿
-https://go.61073736.repl.co/youtube/DjdUEyjx8GM
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",台湾地震监视
-https://go.61073736.repl.co/youtube/Owke6Quk7T0
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",新唐人
-https://go.61073736.repl.co/youtube/WIhgU_mc05A
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",信大电视台
-https://go.61073736.repl.co/youtube/AQymzwl3uSk
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",NBC NEW
-https://go.61073736.repl.co/youtube/0IUbD_4ytuo
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DW.png" group-title="油管直播",DW
-https://go.61073736.repl.co/youtube/pqabxBKzZ6M
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/FRANCE24.png" group-title="油管直播",FRANCE 24
-https://go.61073736.repl.co/youtube/h3MuIUNCCzI
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",Sky News
-https://go.61073736.repl.co/youtube/9Auq9mYxFEE
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",ABC News
-https://go.61073736.repl.co/youtube/w_Ma8oQLmSM
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/Euronews.png" group-title="油管直播",Euronews
-https://go.61073736.repl.co/youtube/pykpO5kQJ98
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CNA.png" group-title="油管直播",CNA
-https://go.61073736.repl.co/youtube/XWq5kBlakcQ
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/国家地理.png" group-title="油管直播",National Geographic
-https://go.61073736.repl.co/youtube/306xLRnW3Cc
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",Nat Geo WILD
-https://go.61073736.repl.co/youtube/6zGV59Ldp3s
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",ANIMALS OF AFRICA 4K
-https://go.61073736.repl.co/youtube/XHI_U7suyxg
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",GREAT HUNTER - 4K
-https://go.61073736.repl.co/youtube/vQP8AwAFzI8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",Most Beautiful Places 12K
-https://go.61073736.repl.co/youtube/Rse-E5tARaY
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",4K African Animal
-https://go.61073736.repl.co/youtube/rkPCR6Ujtak
-
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/三立财经新闻台.png" group-title="码上油管",三立INEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="码上油管",寰宇新闻
@@ -188,6 +110,83 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/Taiwan+.png" group-title="码上油管",Taiwan+
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="油管直播",TVBS Live
+https://go.61073736.repl.co/youtube/m_dhMSvUCIc
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="油管直播",TVBS 56
+https://go.61073736.repl.co/youtube/YvdcZ_jpLXE
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="油管直播",TVBS新闻
+https://go.61073736.repl.co/youtube/2mCSYvcfhtc
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/中天综合台.png" group-title="油管直播",中天新闻
+https://go.61073736.repl.co/youtube/oIgbl7t0S_w
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="油管直播",三立新闻
+https://go.61073736.repl.co/youtube/oZdzzvxTfUY
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="油管直播",东森新闻
+https://go.61073736.repl.co/youtube/S5WOGu2HSes
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/寰宇新闻台.png" group-title="油管直播",寰宇新闻
+https://go.61073736.repl.co/youtube/B7Zp3d6xXWw
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="油管直播",民视新闻
+https://go.61073736.repl.co/youtube/ylYJSBUgaMA
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/华视新闻台.png" group-title="油管直播",华视新闻
+https://go.61073736.repl.co/youtube/wM0g8EoUZ_E
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/公视新闻台.png" group-title="油管直播",公视新闻
+https://go.61073736.repl.co/youtube/quwqlazU-c8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="油管直播",台视新闻
+https://go.61073736.repl.co/youtube/xL0ch83RAK8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/中视新闻台.png" group-title="油管直播",中视新闻
+https://go.61073736.repl.co/youtube/TCnaIE_SAtM
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/中天新闻2台.png" group-title="油管直播",中天新闻2台
+https://go.61073736.repl.co/youtube/WPfPjbOLNfE
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="油管直播",寰宇新闻台湾
+https://go.61073736.repl.co/youtube/UcTIv4ZaE5Y
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰资讯台.png" group-title="油管直播",凤凰资讯台
+https://go.61073736.repl.co/youtube/if6yQq_JJyY
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="油管直播",东森直播
+https://go.61073736.repl.co/youtube/R2iMq5LKXco
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/东森财经新闻台.png" group-title="油管直播",东森财经
+https://go.61073736.repl.co/youtube/WHEPzbFA3hw
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/三立财经新闻台.png" group-title="油管直播",三立iNEWS
+https://go.61073736.repl.co/youtube/CKjSm5ZeehE
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="油管直播",三立海外
+https://go.61073736.repl.co/youtube/FoBfXvlOR6I
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",TaiwanPlus
+https://go.61073736.repl.co/youtube/dZp87qnWelE
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",镜新闻
+https://go.61073736.repl.co/youtube/5n0y6b0Q25o
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",东京都-新宿
+https://go.61073736.repl.co/youtube/DjdUEyjx8GM
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",台湾地震监视
+https://go.61073736.repl.co/youtube/Owke6Quk7T0
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",新唐人
+https://go.61073736.repl.co/youtube/WIhgU_mc05A
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",信大电视台
+https://go.61073736.repl.co/youtube/AQymzwl3uSk
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",NBC NEW
+https://go.61073736.repl.co/youtube/0IUbD_4ytuo
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DW.png" group-title="油管直播",DW
+https://go.61073736.repl.co/youtube/pqabxBKzZ6M
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/FRANCE24.png" group-title="油管直播",FRANCE 24
+https://go.61073736.repl.co/youtube/h3MuIUNCCzI
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",Sky News
+https://go.61073736.repl.co/youtube/9Auq9mYxFEE
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",ABC News
+https://go.61073736.repl.co/youtube/w_Ma8oQLmSM
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/Euronews.png" group-title="油管直播",Euronews
+https://go.61073736.repl.co/youtube/pykpO5kQJ98
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CNA.png" group-title="油管直播",CNA
+https://go.61073736.repl.co/youtube/XWq5kBlakcQ
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/国家地理.png" group-title="油管直播",National Geographic
+https://go.61073736.repl.co/youtube/306xLRnW3Cc
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",Nat Geo WILD
+https://go.61073736.repl.co/youtube/6zGV59Ldp3s
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",ANIMALS OF AFRICA 4K
+https://go.61073736.repl.co/youtube/XHI_U7suyxg
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",GREAT HUNTER - 4K
+https://go.61073736.repl.co/youtube/vQP8AwAFzI8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",Most Beautiful Places 12K
+https://go.61073736.repl.co/youtube/Rse-E5tARaY
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",4K African Animal
+https://go.61073736.repl.co/youtube/rkPCR6Ujtak
 
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="BesTV",CCTV1
