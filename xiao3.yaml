@@ -27,6 +27,20 @@ dns:
 #当前12个协议节点配置模版，按需求修改，如某协议节点不用，则无需删除，确保三区代理分流中没有该name节点名称即可
 proxies:
 #==============================（vless-ws节点）
+- name: CeSu                               	#可自定义名称
+  type: vless
+  server: cesu.mengxiao3.top                          		#解析的域名或者优选域名IP
+  port: 80                                       	#自定义的端口
+  uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
+  udp: true
+  tls: false
+  network: ws
+  servername: cf.61073736.workers.dev	#sni域名，与下面的host一致
+  ws-opts:
+    path: "/?ed=2048"                              	#" "内自定义的path路径
+    headers:
+      Host: cf.61073736.workers.dev	#host域名，与上面的servername一致
+#==============================（vless-ws节点）
 - name: 001-Cloudflare                               	#可自定义名称
   type: vless
   server: japan.com                          		#解析的域名或者优选域名IP
@@ -211,6 +225,7 @@ proxy-groups:
   - name: 🚀 手动切换
     type: select
     proxies:
+      - CeSu
       - 001-Cloudflare
       - 002-Cloudflare
       - 003-Cloudflare
@@ -228,6 +243,7 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
+      - CeSu
       - 001-Cloudflare
       - 002-Cloudflare
       - 003-Cloudflare
@@ -245,6 +261,7 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
+      - CeSu
       - 001-Cloudflare
       - 002-Cloudflare
       - 003-Cloudflare
@@ -263,6 +280,7 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
+      - CeSu
       - 001-Cloudflare
       - 002-Cloudflare
       - 003-Cloudflare
