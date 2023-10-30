@@ -115,80 +115,7 @@ proxies:
     headers:
       Host: cf.61073736.workers.dev	#host域名，与上面的servername一致
 
-#==============================（vless-ws节点）
-- name: 006-Cloudflare                               	#可自定义名称
-  type: vless
-  server: speedtest1.mengxiao3.top                          	#解析的域名或者优选域名IP
-  port: 80                                       	#自定义的端口
-  uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
-  udp: true
-  tls: false
-  network: ws
-  servername: cf.61073736.workers.dev	#sni域名，与下面的host一致
-  ws-opts:
-    path: "/?ed=2048"                              	#" "内自定义的path路径
-    headers:
-      Host: cf.61073736.workers.dev	#host域名，与上面的servername一致
 
-#==============================（vless-ws节点）
-- name: 007-Cloudflare                               	#可自定义名称
-  type: vless
-  server: speedtest2.mengxiao3.top                    #解析的域名或者优选域名IP
-  port: 80                                       	#自定义的端口
-  uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
-  udp: true
-  tls: false
-  network: ws
-  servername: cf.61073736.workers.dev	#sni域名，与下面的host一致
-  ws-opts:
-    path: "/?ed=2048"                              	#" "内自定义的path路径
-    headers:
-      Host: cf.61073736.workers.dev	#host域名，与上面的servername一致
-
-#==============================（vless-ws节点）
-- name: 008-Cloudflare                               	#可自定义名称
-  type: vless
-  server: speedtest3.mengxiao3.top                          	#解析的域名或者优选域名IP
-  port: 80                                       	#自定义的端口
-  uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
-  udp: true
-  tls: false
-  network: ws
-  servername: cf.61073736.workers.dev	#sni域名，与下面的host一致
-  ws-opts:
-    path: "/?ed=2048"                              	#" "内自定义的path路径
-    headers:
-      Host: cf.61073736.workers.dev	#host域名，与上面的servername一致
-
-#==============================（vless-ws节点）
-- name: 009-Cloudflare                               	#可自定义名称
-  type: vless
-  server: speedtest4.mengxiao3.top                          	#解析的域名或者优选域名IP
-  port: 80                                       	#自定义的端口
-  uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
-  udp: true
-  tls: false
-  network: ws
-  servername: cf.61073736.workers.dev	#sni域名，与下面的host一致
-  ws-opts:
-    path: "/?ed=2048"                              	#" "内自定义的path路径
-    headers:
-      Host: cf.61073736.workers.dev	#host域名，与上面的servername一致
-
-#==============================（vless-ws节点）
-- name: 010-Cloudflare                               	#可自定义名称
-  type: vless
-  server: speedtest5.mengxiao3.top                          	#解析的域名或者优选域名IP
-  port: 80                                       	#自定义的端口
-  uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
-  udp: true
-  tls: false
-  network: ws
-  servername: cf.61073736.workers.dev	#sni域名，与下面的host一致
-  ws-opts:
-    path: "/?ed=2048"                              	#" "内自定义的path路径
-    headers:
-      Host: cf.61073736.workers.dev	#host域名，与上面的servername一致
 
 #==============================（vless-ws节点）
 - name: 001-JiChang                               	#可自定义名称
@@ -231,11 +158,6 @@ proxy-groups:
       - 003-Cloudflare
       - 004-Cloudflare
       - 005-Cloudflare
-      - 006-Cloudflare
-      - 007-Cloudflare
-      - 008-Cloudflare
-      - 009-Cloudflare
-      - 010-Cloudflare
       - 001-JiChang
   - name: ♻️ 自动选择
     type: url-test
@@ -249,11 +171,6 @@ proxy-groups:
       - 003-Cloudflare
       - 004-Cloudflare
       - 005-Cloudflare
-      - 006-Cloudflare
-      - 007-Cloudflare
-      - 008-Cloudflare
-      - 009-Cloudflare
-      - 010-Cloudflare
       - 001-JiChang
   - name: 🔯 故障转移
     type: fallback
@@ -267,11 +184,6 @@ proxy-groups:
       - 003-Cloudflare
       - 004-Cloudflare
       - 005-Cloudflare
-      - 006-Cloudflare
-      - 007-Cloudflare
-      - 008-Cloudflare
-      - 009-Cloudflare
-      - 010-Cloudflare
       - 001-JiChang
   - name: 🔮 负载均衡
     type: load-balance
@@ -286,11 +198,6 @@ proxy-groups:
       - 003-Cloudflare
       - 004-Cloudflare
       - 005-Cloudflare
-      - 006-Cloudflare
-      - 007-Cloudflare
-      - 008-Cloudflare
-      - 009-Cloudflare
-      - 010-Cloudflare
       - 001-JiChang
   - name: 📲 电报消息
     type: select
