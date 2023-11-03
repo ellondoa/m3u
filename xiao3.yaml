@@ -30,165 +30,165 @@ proxies:
 - name: CeSu                               	#可自定义名称
   type: vless
   server: cesu.mengxiao3.top                          		#解析的域名或者优选域名IP
-  port: 80                                       	#自定义的端口
+  port: 8443                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
-  tls: false
+  tls: true
   network: ws
-  servername: cf.61073736.workers.dev	#sni域名，与下面的host一致
+  servername: cf.mengxiao3.top	#sni域名，与下面的host一致
   ws-opts:
     path: "/?ed=2048"                              	#" "内自定义的path路径
     headers:
-      Host: cf.61073736.workers.dev	#host域名，与上面的servername一致
+      Host: cf.mengxiao3.top	#host域名，与上面的servername一致
 #==============================（vless-ws节点）
 - name: 001-Cloudflare                               	#可自定义名称
   type: vless
   server: japan.com                          		#解析的域名或者优选域名IP
-  port: 80                                       	#自定义的端口
+  port: 8443                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
-  tls: false
+  tls: true
   network: ws
-  servername: cf.61073736.workers.dev	#sni域名，与下面的host一致
+  servername: cf.mengxiao3.top	#sni域名，与下面的host一致
   ws-opts:
     path: "/?ed=2048"                              	#" "内自定义的path路径
     headers:
-      Host: cf.61073736.workers.dev	#host域名，与上面的servername一致
+      Host: cf.mengxiao3.top	#host域名，与上面的servername一致
 
 #==============================（vless-ws节点）
 - name: 002-Cloudflare                               	#可自定义名称
   type: vless
   server: ip.sb                          		#解析的域名或者优选域名IP
-  port: 80                                       	#自定义的端口
+  port: 8443                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
-  tls: false
+  tls: true
   network: ws
-  servername: cf.61073736.workers.dev	#sni域名，与下面的host一致
+  servername: cf.mengxiao3.top	#sni域名，与下面的host一致
   ws-opts:
     path: "/?ed=2048"                              	#" "内自定义的path路径
     headers:
-      Host: cf.61073736.workers.dev	#host域名，与上面的servername一致
+      Host: cf.mengxiao3.top	#host域名，与上面的servername一致
 
 #==============================（vless-ws节点）
 - name: 003-Cloudflare                               	#可自定义名称
   type: vless
   server: malaysia.com                          	#解析的域名或者优选域名IP
-  port: 80                                       	#自定义的端口
+  port: 8443                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
-  tls: false
+  tls: true
   network: ws
-  servername: cf.61073736.workers.dev	#sni域名，与下面的host一致
+  servername: cf.mengxiao3.top	#sni域名，与下面的host一致
   ws-opts:
     path: "/?ed=2048"                              	#" "内自定义的path路径
     headers:
-      Host: cf.61073736.workers.dev	#host域名，与上面的servername一致
+      Host: cf.mengxiao3.top	#host域名，与上面的servername一致
 
 #==============================（vless-ws节点）
 - name: 004-Cloudflare                               	#可自定义名称
   type: vless
   server: time.is                          		#解析的域名或者优选域名IP
-  port: 80                                       	#自定义的端口
+  port: 8443                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
-  tls: false
+  tls: true
   network: ws
-  servername: cf.61073736.workers.dev	#sni域名，与下面的host一致
+  servername: cf.mengxiao3.top	#sni域名，与下面的host一致
   ws-opts:
     path: "/?ed=2048"                              	#" "内自定义的path路径
     headers:
-      Host: cf.61073736.workers.dev	#host域名，与上面的servername一致
+      Host: cf.mengxiao3.top	#host域名，与上面的servername一致
 
 #==============================（vless-ws节点）
 - name: 005-Cloudflare                               	#可自定义名称
   type: vless
   server: russia.com                          		#解析的域名或者优选域名IP
-  port: 80                                       	#自定义的端口
+  port: 8443                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
-  tls: false
+  tls: true
   network: ws
-  servername: cf.61073736.workers.dev	#sni域名，与下面的host一致
+  servername: cf.mengxiao3.top	#sni域名，与下面的host一致
   ws-opts:
     path: "/?ed=2048"                              	#" "内自定义的path路径
     headers:
-      Host: cf.61073736.workers.dev	#host域名，与上面的servername一致
+      Host: cf.mengxiao3.top	#host域名，与上面的servername一致
 
 #==============================（vless-ws节点）
 - name: 006-Cloudflare                               	#可自定义名称
   type: vless
   server: speedtest1.mengxiao3.top                          	#解析的域名或者优选域名IP
-  port: 80                                       	#自定义的端口
+  port: 8443                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
-  tls: false
+  tls: true
   network: ws
-  servername: cf.61073736.workers.dev	#sni域名，与下面的host一致
+  servername: cf.mengxiao3.top	#sni域名，与下面的host一致
   ws-opts:
     path: "/?ed=2048"                              	#" "内自定义的path路径
     headers:
-      Host: cf.61073736.workers.dev	#host域名，与上面的servername一致
+      Host: cf.mengxiao3.top	#host域名，与上面的servername一致
 
 #==============================（vless-ws节点）
 - name: 007-Cloudflare                               	#可自定义名称
   type: vless
   server: speedtest2.mengxiao3.top                    #解析的域名或者优选域名IP
-  port: 80                                       	#自定义的端口
+  port: 8443                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
-  tls: false
+  tls: true
   network: ws
-  servername: cf.61073736.workers.dev	#sni域名，与下面的host一致
+  servername: cf.mengxiao3.top	#sni域名，与下面的host一致
   ws-opts:
     path: "/?ed=2048"                              	#" "内自定义的path路径
     headers:
-      Host: cf.61073736.workers.dev	#host域名，与上面的servername一致
+      Host: cf.mengxiao3.top	#host域名，与上面的servername一致
 
 #==============================（vless-ws节点）
 - name: 008-Cloudflare                               	#可自定义名称
   type: vless
   server: speedtest3.mengxiao3.top                          	#解析的域名或者优选域名IP
-  port: 80                                       	#自定义的端口
+  port: 8443                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
-  tls: false
+  tls: true
   network: ws
-  servername: cf.61073736.workers.dev	#sni域名，与下面的host一致
+  servername: cf.mengxiao3.top	#sni域名，与下面的host一致
   ws-opts:
     path: "/?ed=2048"                              	#" "内自定义的path路径
     headers:
-      Host: cf.61073736.workers.dev	#host域名，与上面的servername一致
+      Host: cf.mengxiao3.top	#host域名，与上面的servername一致
 
 #==============================（vless-ws节点）
 - name: 009-Cloudflare                               	#可自定义名称
   type: vless
   server: speedtest4.mengxiao3.top                          	#解析的域名或者优选域名IP
-  port: 80                                       	#自定义的端口
+  port: 8443                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
-  tls: false
+  tls: true
   network: ws
-  servername: cf.61073736.workers.dev	#sni域名，与下面的host一致
+  servername: cf.mengxiao3.top	#sni域名，与下面的host一致
   ws-opts:
     path: "/?ed=2048"                              	#" "内自定义的path路径
     headers:
-      Host: cf.61073736.workers.dev	#host域名，与上面的servername一致
+      Host: cf.mengxiao3.top	#host域名，与上面的servername一致
 
 #==============================（vless-ws节点）
 - name: 010-Cloudflare                               	#可自定义名称
   type: vless
   server: speedtest5.mengxiao3.top                          	#解析的域名或者优选域名IP
-  port: 80                                       	#自定义的端口
+  port: 8443                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
-  tls: false
+  tls: true
   network: ws
-  servername: cf.61073736.workers.dev	#sni域名，与下面的host一致
+  servername: cf.mengxiao3.top	#sni域名，与下面的host一致
   ws-opts:
     path: "/?ed=2048"                              	#" "内自定义的path路径
     headers:
-      Host: cf.61073736.workers.dev	#host域名，与上面的servername一致
+      Host: cf.mengxiao3.top	#host域名，与上面的servername一致
 
 #==============================（vless-ws节点）
 - name: 001-JiChang                               	#可自定义名称
