@@ -1,4 +1,4 @@
-#（一区）=============================（clash配置）
+#（一区）=============================（clash-meta配置）
 #dns可自行修改
 mixed-port: 7890
 allow-lan: true
@@ -15,9 +15,9 @@ dns:
     - tls://1.0.0.1:853
     - tls://dns.google:853
 #（二区）==============================（代理协议）
-#当前12个协议节点配置模版，按需求修改，如某协议节点不用，则无需删除，确保三区代理分流中没有该name节点名称即可
+#当前协议节点配置模版，按需求修改，如某协议节点不用，则无需删除，确保三区代理分流中没有该name节点名称即可
 proxies:
-#==============================（vless-ws节点）
+#==============================（vless-ws-tls节点）
 - name: CeSu                               	        #可自定义名称
   type: vless
   server: cesu.mengxiao3.top                        #解析的域名或者优选域名IP
@@ -31,7 +31,7 @@ proxies:
     path: "/?ed=2048"                              	#" "内自定义的path路径
     headers:
       Host: cf.mengxiao3.top	                      #host域名，与上面的servername一致
-#==============================（vless-ws节点）
+#==============================（vless-ws-tls节点）
 - name: 001-Cloudflare                              #可自定义名称
   type: vless
   server: japan.com                          		    #解析的域名或者优选域名IP
@@ -46,7 +46,7 @@ proxies:
     headers:
       Host: cf.mengxiao3.top	                      #host域名，与上面的servername一致
 
-#==============================（vless-ws节点）
+#==============================（vless-ws-tls节点）
 - name: 002-Cloudflare                              #可自定义名称
   type: vless
   server: ip.sb                          		        #解析的域名或者优选域名IP
@@ -61,7 +61,7 @@ proxies:
     headers:
       Host: cf.mengxiao3.top	                      #host域名，与上面的servername一致
 
-#==============================（vless-ws节点）
+#==============================（vless-ws-tls节点）
 - name: 003-Cloudflare                              #可自定义名称
   type: vless
   server: malaysia.com                          	  #解析的域名或者优选域名IP
@@ -76,7 +76,7 @@ proxies:
     headers:
       Host: cf.mengxiao3.top	                      #host域名，与上面的servername一致
 
-#==============================（vless-ws节点）
+#==============================（vless-ws-tls节点）
 - name: 004-Cloudflare                              #可自定义名称
   type: vless
   server: time.is                          		      #解析的域名或者优选域名IP
@@ -91,7 +91,7 @@ proxies:
     headers:
       Host: cf.mengxiao3.top	                      #host域名，与上面的servername一致
 
-#==============================（vless-ws节点）
+#==============================（vless-ws-tls节点）
 - name: 005-Cloudflare                              #可自定义名称
   type: vless
   server: russia.com                          		  #解析的域名或者优选域名IP
@@ -106,7 +106,7 @@ proxies:
     headers:
       Host: cf.mengxiao3.top	                      #host域名，与上面的servername一致
 
-#==============================（vless-ws节点）
+#==============================（vless-ws-tls节点）
 - name: 006-Cloudflare                              #可自定义名称
   type: vless
   server: speedtest1.mengxiao3.top                  #解析的域名或者优选域名IP
@@ -121,7 +121,7 @@ proxies:
     headers:
       Host: cf.mengxiao3.top	                      #host域名，与上面的servername一致
 
-#==============================（vless-ws节点）
+#==============================（vless-ws-tls节点）
 - name: 007-Cloudflare                              #可自定义名称
   type: vless
   server: speedtest2.mengxiao3.top                  #解析的域名或者优选域名IP
@@ -136,7 +136,7 @@ proxies:
     headers:
       Host: cf.mengxiao3.top	                      #host域名，与上面的servername一致
 
-#==============================（vless-ws节点）
+#==============================（vless-ws-tls节点）
 - name: 008-Cloudflare                              #可自定义名称
   type: vless
   server: speedtest3.mengxiao3.top                  #解析的域名或者优选域名IP
@@ -151,7 +151,7 @@ proxies:
     headers:
       Host: cf.mengxiao3.top	                      #host域名，与上面的servername一致
 
-#==============================（vless-ws节点）
+#==============================（vless-ws-tls节点）
 - name: 009-Cloudflare                              #可自定义名称
   type: vless
   server: speedtest4.mengxiao3.top                  #解析的域名或者优选域名IP
@@ -166,7 +166,7 @@ proxies:
     headers:
       Host: cf.mengxiao3.top	                      #host域名，与上面的servername一致
 
-#==============================（vless-ws节点）
+#==============================（vless-ws-tls节点）
 - name: 010-Cloudflare                              #可自定义名称
   type: vless
   server: speedtest5.mengxiao3.top                  #解析的域名或者优选域名IP
@@ -181,7 +181,7 @@ proxies:
     headers:
       Host: cf.mengxiao3.top	                      #host域名，与上面的servername一致
 
-#==============================（vless-ws节点）
+#==============================（vless-ws-tls节点）
 - name: 001-JiChang                               	#可自定义名称
   type: vless
   server: www.visa.com                          	  #解析的域名或者优选域名IP
@@ -195,7 +195,8 @@ proxies:
     path: "/?ed=2048"                              	#" "内自定义的path路径
     headers:
       Host: cf2.mengxiao3.top		                    #host域名，与上面的servername一致
-#==============================（vless-ws节点）
+
+#==============================（vless-ws-tls节点）
 - name: 001-zizifn-edgetunnel                       #可自定义名称
   type: vless
   server: japan.com                                 #解析的域名或者优选域名IP
@@ -209,7 +210,8 @@ proxies:
     path: "/?ed=2048"                              	#" "内自定义的path路径
     headers:
       Host: zizifn-edgetunnel.mengxiao3.top	        #host域名，与上面的servername一致
-#==============================（vless-ws节点）
+
+#==============================（vless-ws-tls节点）
 - name: 002-zizifn-edgetunnel                       #可自定义名称
   type: vless
   server: icook.hk                                  #解析的域名或者优选域名IP
@@ -223,7 +225,8 @@ proxies:
     path: "/?ed=2048"                              	#" "内自定义的path路径
     headers:
       Host: zizifn-edgetunnel.mengxiao3.top	        #host域名，与上面的servername一致
-#==============================（vless-ws节点）
+
+#==============================（vless-ws-tls节点）
 - name: 003-zizifn-edgetunnel                       #可自定义名称
   type: vless
   server: ip.sb                                     #解析的域名或者优选域名IP
@@ -237,7 +240,8 @@ proxies:
     path: "/?ed=2048"                              	#" "内自定义的path路径
     headers:
       Host: zizifn-edgetunnel.mengxiao3.top	        #host域名，与上面的servername一致
-#==============================（vless-ws节点）
+
+#==============================（vless-ws-tls节点）
 - name: 004-zizifn-edgetunnel                       #可自定义名称
   type: vless
   server: skk.moe                                   #解析的域名或者优选域名IP
@@ -251,7 +255,8 @@ proxies:
     path: "/?ed=2048"                              	#" "内自定义的path路径
     headers:
       Host: zizifn-edgetunnel.mengxiao3.top	        #host域名，与上面的servername一致
-#==============================（vless-ws节点）
+
+#==============================（vless-ws-tls节点）
 - name: 005-zizifn-edgetunnel                       #可自定义名称
   type: vless
   server: www.visa.com                              #解析的域名或者优选域名IP
