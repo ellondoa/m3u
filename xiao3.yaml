@@ -34,7 +34,7 @@ proxies:
 #==============================（vless-ws-tls节点）
 - name: 001-Cloudflare                              	#可自定义名称
   type: vless
-  server: japan.com                          		#解析的域名或者优选域名IP
+  server: www.ipchicken.com                          	#解析的域名或者优选域名IP
   port: 8443                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
@@ -49,7 +49,7 @@ proxies:
 #==============================（vless-ws-tls节点）
 - name: 002-Cloudflare                              	#可自定义名称
   type: vless
-  server: ip.sb                          		#解析的域名或者优选域名IP
+  server: russia.com                          		#解析的域名或者优选域名IP
   port: 8443                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
@@ -79,7 +79,7 @@ proxies:
 #==============================（vless-ws-tls节点）
 - name: 004-Cloudflare                              	#可自定义名称
   type: vless
-  server: time.is                          		#解析的域名或者优选域名IP
+  server: www.hugedomains.com                          	#解析的域名或者优选域名IP
   port: 8443                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
@@ -94,7 +94,7 @@ proxies:
 #==============================（vless-ws-tls节点）
 - name: 005-Cloudflare                              	#可自定义名称
   type: vless
-  server: russia.com                          		#解析的域名或者优选域名IP
+  server: www.iplocation.net                          	#解析的域名或者优选域名IP
   port: 8443                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
@@ -199,7 +199,7 @@ proxies:
 #==============================（vless-ws-tls节点）
 - name: 001-zizifn-edgetunnel                       	#可自定义名称
   type: vless
-  server: japan.com                                 	#解析的域名或者优选域名IP
+  server: cdn-b100.xn--b6gac.eu.org                     #解析的域名或者优选域名IP
   port: 8443                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
@@ -214,7 +214,7 @@ proxies:
 #==============================（vless-ws-tls节点）
 - name: 002-zizifn-edgetunnel                       	#可自定义名称
   type: vless
-  server: icook.hk                                  	#解析的域名或者优选域名IP
+  server: cdn.xn--b6gac.eu.org                          #解析的域名或者优选域名IP
   port: 8443                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
@@ -229,7 +229,7 @@ proxies:
 #==============================（vless-ws-tls节点）
 - name: 003-zizifn-edgetunnel                       	#可自定义名称
   type: vless
-  server: ip.sb                                     	#解析的域名或者优选域名IP
+  server: download.yunzhongzhuan.com                    #解析的域名或者优选域名IP
   port: 8443                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
@@ -244,7 +244,7 @@ proxies:
 #==============================（vless-ws-tls节点）
 - name: 004-zizifn-edgetunnel                       	#可自定义名称
   type: vless
-  server: skk.moe                                   	#解析的域名或者优选域名IP
+  server: edgetunnel.anycast.eu.org                     #解析的域名或者优选域名IP
   port: 8443                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
@@ -259,7 +259,7 @@ proxies:
 #==============================（vless-ws-tls节点）
 - name: 005-zizifn-edgetunnel                       	#可自定义名称
   type: vless
-  server: www.visa.com                              	#解析的域名或者优选域名IP
+  server: iplocation.io                              	#解析的域名或者优选域名IP
   port: 8443                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
