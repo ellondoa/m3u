@@ -2725,8 +2725,8 @@ rules:
   - DOMAIN-SUFFIX,vikacg.com,🚀 节点选择
   - DOMAIN-SUFFIX,picjs.xyz,🚀 节点选择
   - DOMAIN-KEYWORD,baipiao,🚀 节点选择
-  - DOMAIN-SUFFIX,api.cloudflare.com,🚀 节点选择
-  - DOMAIN-SUFFIX,workers.dev,🚀 节点选择
+  #- DOMAIN-SUFFIX,api.cloudflare.com,🚀 节点选择
+  #- DOMAIN-SUFFIX,workers.dev,🚀 节点选择
   - DOMAIN-SUFFIX,13th.tech,🎯 全球直连
   - DOMAIN-SUFFIX,423down.com,🎯 全球直连
   - DOMAIN-SUFFIX,bokecc.com,🎯 全球直连
