@@ -17,10 +17,11 @@ dns:
 #（二区）==============================（代理协议）
 #当前协议节点配置模版，按需求修改，如某协议节点不用，则无需删除，确保三区代理分流中没有该name节点名称即可
 proxies:
+
 #==============================（vless-ws-tls节点）
-- name: CeSu                               	        #可自定义名称
+- name: CeSu1                               	        #可自定义名称
   type: vless
-  server: cesu.mengxiao3.top                        	#解析的域名或者优选域名IP
+  server: cesu1.mengxiao3.top                        	#解析的域名或者优选域名IP
   port: 8443                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
@@ -31,6 +32,53 @@ proxies:
     path: "/?ed=2048"                              	#" "内自定义的path路径
     headers:
       Host: cf.mengxiao3.top	                      	#host域名，与上面的servername一致
+
+#==============================（vless-ws-tls节点）
+- name: CeSu2                               	        #可自定义名称
+  type: vless
+  server: cesu2.mengxiao3.top                        	#解析的域名或者优选域名IP
+  port: 8443                                       	#自定义的端口
+  uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
+  udp: true
+  tls: true
+  network: ws
+  servername: cf.mengxiao3.top	                    	#sni域名，与下面的host一致
+  ws-opts:
+    path: "/?ed=2048"                              	#" "内自定义的path路径
+    headers:
+      Host: cf.mengxiao3.top	                      	#host域名，与上面的servername一致
+
+
+#==============================（vless-ws-tls节点）
+- name: CeSu3                               	        #可自定义名称
+  type: vless
+  server: cesu3.mengxiao3.top                        	#解析的域名或者优选域名IP
+  port: 8443                                       	#自定义的端口
+  uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
+  udp: true
+  tls: true
+  network: ws
+  servername: cf.mengxiao3.top	                    	#sni域名，与下面的host一致
+  ws-opts:
+    path: "/?ed=2048"                              	#" "内自定义的path路径
+    headers:
+      Host: cf.mengxiao3.top	                      	#host域名，与上面的servername一致
+
+#==============================（vless-ws-tls节点）
+- name: CeSu4                               	        #可自定义名称
+  type: vless
+  server: cesu4.mengxiao3.top                        	#解析的域名或者优选域名IP
+  port: 8443                                       	#自定义的端口
+  uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
+  udp: true
+  tls: true
+  network: ws
+  servername: cf.mengxiao3.top	                    	#sni域名，与下面的host一致
+  ws-opts:
+    path: "/?ed=2048"                              	#" "内自定义的path路径
+    headers:
+      Host: cf.mengxiao3.top	                      	#host域名，与上面的servername一致
+
 #==============================（vless-ws-tls节点）
 - name: 001-Cloudflare                              	#可自定义名称
   type: vless
@@ -279,7 +327,10 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - CeSu
+      - CeSu1
+      - CeSu2
+      - CeSu3
+      - CeSu4
       - 001-Cloudflare
       - 002-Cloudflare
       - 003-Cloudflare
@@ -302,7 +353,10 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - CeSu
+      - CeSu1
+      - CeSu2
+      - CeSu3
+      - CeSu4
       - 001-Cloudflare
       - 002-Cloudflare
       - 003-Cloudflare
@@ -336,7 +390,10 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - CeSu
+      - CeSu1
+      - CeSu2
+      - CeSu3
+      - CeSu4
       - 001-Cloudflare
       - 002-Cloudflare
       - 003-Cloudflare
