@@ -17,6 +17,16 @@ dns:
 #（二区）==============================（代理协议）
 #当前协议节点配置模版，按需求修改，如某协议节点不用，则无需删除，确保三区代理分流中没有该name节点名称即可
 proxies:
+#==============================（warp-wireguard节点）  
+- name: warp-wireguard节点                                   #可自定义名称
+  type: wireguard         
+  server: 162.159.192.100                                     #可自定义优选对端IP，与下面port的端口相对应
+  port: 1387                                                 #可自定义优选对端IP，与上面server的IP相对应
+  ip: 172.16.0.2
+  ipv6: 2606:4700:190:814e:7de3:5ddb:9d3e:9359               #与private-key相对应，如删除本行，表示仅IPV4
+  public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+  private-key: CH1GfK2BLS+CwJYX6BxPwCAfj53al9Iwr/Omu0CS828=  #获取private-key，私key
+  udp: true
 
 #==============================（vless-ws-tls节点）
 - name: CeSu1                               	        #可自定义名称
@@ -347,6 +357,7 @@ proxy-groups:
       - 003-zizifn-edgetunnel
       - 004-zizifn-edgetunnel 
       - 005-zizifn-edgetunnel
+      - warp-wireguard节点
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -373,6 +384,7 @@ proxy-groups:
       - 003-zizifn-edgetunnel
       - 004-zizifn-edgetunnel 
       - 005-zizifn-edgetunnel
+      - warp-wireguard节点
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -410,6 +422,7 @@ proxy-groups:
       - 003-zizifn-edgetunnel
       - 004-zizifn-edgetunnel 
       - 005-zizifn-edgetunnel
+      - warp-wireguard节点
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
