@@ -100,6 +100,21 @@ proxies:
   udp: true
 
 #==============================（vless-ws-tls节点）
+- name: speed                               	        #可自定义名称
+  type: vless
+  server: speed.mengxiao3.top                        	#解析的域名或者优选域名IP
+  port: 8443                                       	#自定义的端口
+  uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
+  udp: true
+  tls: true
+  network: ws
+  servername: cf.mengxiao3.top	                    	#sni域名，与下面的host一致
+  ws-opts:
+    path: "/?ed=2048"                              	#" "内自定义的path路径
+    headers:
+      Host: cf.mengxiao3.top	                      	#host域名，与上面的servername一致
+
+#==============================（vless-ws-tls节点）
 - name: CeSu1                               	        #可自定义名称
   type: vless
   server: cesu1.mengxiao3.top                        	#解析的域名或者优选域名IP
