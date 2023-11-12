@@ -444,6 +444,7 @@ proxy-groups:
       - 004-zizifn-edgetunnel 
       - 005-zizifn-edgetunnel
       - warp-wireguard节点
+      - speed
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -471,6 +472,7 @@ proxy-groups:
       - 004-zizifn-edgetunnel 
       - 005-zizifn-edgetunnel
       - warp-wireguard节点
+      - speed
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -509,6 +511,7 @@ proxy-groups:
       - 004-zizifn-edgetunnel 
       - 005-zizifn-edgetunnel
       - warp-wireguard节点
+      - speed
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
