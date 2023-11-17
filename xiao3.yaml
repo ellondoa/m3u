@@ -300,6 +300,13 @@ proxy-groups:
       - 004-Cloudflare
       - 005-Cloudflare
 rules:
+#自定义规则===开始
+  - DOMAIN-KEYWORD,cloudflare,🎯 全球直连
+  - DOMAIN-KEYWORD,v2rayssr,🚀 节点选择
+  - DOMAIN-SUFFIX,workers.dev,🚀 节点选择
+  - DOMAIN-SUFFIX,ghproxy.com,🚀 节点选择
+
+#自定义规则===结束
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-loopback,🎯 全球直连
