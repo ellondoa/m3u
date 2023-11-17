@@ -238,7 +238,6 @@ proxies:
     headers:
       Host: cf.mengxiao3.top	                      	#host域名，与上面的servername一致
 
-cesu, speed, JiChang, zizifn-edgetunnel, warp-wireguard节点, 001-Cloudflare, 002-Cloudflare, 003-Cloudflare, 004-Cloudflare, 005-Cloudflare
 
 #（三区）==============================（代理分流）
 #分流组可自行创建添加，proxies参数下的name节点名称，按需求自行增减，确保出现的name节点名称在二区代理协议中可查找
