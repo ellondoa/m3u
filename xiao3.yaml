@@ -88,16 +88,21 @@ dns:
 #（二区）==============================（代理协议）
 #当前协议节点配置模版，按需求修改，如某协议节点不用，则无需删除，确保三区代理分流中没有该name节点名称即可
 proxies:
-#==============================（warp-wireguard节点）  
-- name: warp-wireguard节点                                   #可自定义名称
-  type: wireguard         
-  server: 162.159.192.100                                    #可自定义优选对端IP，与下面port的端口相对应
-  port: 1387                                                 #可自定义优选对端IP，与上面server的IP相对应
-  ip: 172.16.0.2
-  ipv6: 2606:4700:190:814e:7de3:5ddb:9d3e:9359               #与private-key相对应，如删除本行，表示仅IPV4
-  public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
-  private-key: CH1GfK2BLS+CwJYX6BxPwCAfj53al9Iwr/Omu0CS828=  #获取private-key，私key
+#==============================（vless-ws-tls节点）
+- name: cesu                              	#可自定义名称
+  type: vless
+  server: cesu.mengxiao3.top                  	#解析的域名或者优选域名IP
+  port: 8443                                       	#自定义的端口
+  uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
+  tls: true
+  network: ws
+  servername: cf.mengxiao3.top	                    	#sni域名，与下面的host一致
+  ws-opts:
+    path: "/?ed=2048"                              	#" "内自定义的path路径
+    headers:
+      Host: cf.mengxiao3.top	                      	#host域名，与上面的servername一致
+
 
 #==============================（vless-ws-tls节点）
 - name: speed                               	        #可自定义名称
@@ -114,66 +119,47 @@ proxies:
     headers:
       Host: cf.mengxiao3.top	                      	#host域名，与上面的servername一致
 
+
 #==============================（vless-ws-tls节点）
-- name: CeSu1                               	        #可自定义名称
+- name: JiChang                               	#可自定义名称
   type: vless
-  server: cesu1.mengxiao3.top                        	#解析的域名或者优选域名IP
+  server: www.visa.com                          	#解析的域名或者优选域名IP
+  port: 8443                                       	#自定义的端口
+  uuid: 1ead0bcd-5387-4eaa-a1c7-0f1e5d204e59       	#自定义的uuid
+  udp: true
+  tls: true
+  network: ws
+  servername: cf2.mengxiao3.top		                #sni域名，与下面的host一致
+  ws-opts:
+    path: "/?ed=2048"                              	#" "内自定义的path路径
+    headers:
+      Host: cf2.mengxiao3.top		                #host域名，与上面的servername一致
+
+#==============================（vless-ws-tls节点）
+- name: zizifn-edgetunnel                       	#可自定义名称
+  type: vless
+  server: japan.com                     		#解析的域名或者优选域名IP
   port: 8443                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
   tls: true
   network: ws
-  servername: cf.mengxiao3.top	                    	#sni域名，与下面的host一致
+  servername: zizifn-edgetunnel.mengxiao3.top	      	#sni域名，与下面的host一致
   ws-opts:
     path: "/?ed=2048"                              	#" "内自定义的path路径
     headers:
-      Host: cf.mengxiao3.top	                      	#host域名，与上面的servername一致
+      Host: zizifn-edgetunnel.mengxiao3.top	        #host域名，与上面的servername一致
 
-#==============================（vless-ws-tls节点）
-- name: CeSu2                               	        #可自定义名称
-  type: vless
-  server: cesu2.mengxiao3.top                        	#解析的域名或者优选域名IP
-  port: 8443                                       	#自定义的端口
-  uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
+#==============================（warp-wireguard节点）  
+- name: warp-wireguard节点                                   #可自定义名称
+  type: wireguard         
+  server: 162.159.192.100                                    #可自定义优选对端IP，与下面port的端口相对应
+  port: 1387                                                 #可自定义优选对端IP，与上面server的IP相对应
+  ip: 172.16.0.2
+  ipv6: 2606:4700:190:814e:7de3:5ddb:9d3e:9359               #与private-key相对应，如删除本行，表示仅IPV4
+  public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+  private-key: CH1GfK2BLS+CwJYX6BxPwCAfj53al9Iwr/Omu0CS828=  #获取private-key，私key
   udp: true
-  tls: true
-  network: ws
-  servername: cf.mengxiao3.top	                    	#sni域名，与下面的host一致
-  ws-opts:
-    path: "/?ed=2048"                              	#" "内自定义的path路径
-    headers:
-      Host: cf.mengxiao3.top	                      	#host域名，与上面的servername一致
-
-
-#==============================（vless-ws-tls节点）
-- name: CeSu3                               	        #可自定义名称
-  type: vless
-  server: cesu3.mengxiao3.top                        	#解析的域名或者优选域名IP
-  port: 8443                                       	#自定义的端口
-  uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
-  udp: true
-  tls: true
-  network: ws
-  servername: cf.mengxiao3.top	                    	#sni域名，与下面的host一致
-  ws-opts:
-    path: "/?ed=2048"                              	#" "内自定义的path路径
-    headers:
-      Host: cf.mengxiao3.top	                      	#host域名，与上面的servername一致
-
-#==============================（vless-ws-tls节点）
-- name: CeSu4                               	        #可自定义名称
-  type: vless
-  server: cesu4.mengxiao3.top                        	#解析的域名或者优选域名IP
-  port: 8443                                       	#自定义的端口
-  uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
-  udp: true
-  tls: true
-  network: ws
-  servername: cf.mengxiao3.top	                    	#sni域名，与下面的host一致
-  ws-opts:
-    path: "/?ed=2048"                              	#" "内自定义的path路径
-    headers:
-      Host: cf.mengxiao3.top	                      	#host域名，与上面的servername一致
 
 #==============================（vless-ws-tls节点）
 - name: 001-Cloudflare                              	#可自定义名称
@@ -250,170 +236,7 @@ proxies:
     headers:
       Host: cf.mengxiao3.top	                      	#host域名，与上面的servername一致
 
-#==============================（vless-ws-tls节点）
-- name: 006-Cloudflare                              	#可自定义名称
-  type: vless
-  server: speedtest1.mengxiao3.top                  	#解析的域名或者优选域名IP
-  port: 8443                                       	#自定义的端口
-  uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
-  udp: true
-  tls: true
-  network: ws
-  servername: cf.mengxiao3.top	                    	#sni域名，与下面的host一致
-  ws-opts:
-    path: "/?ed=2048"                              	#" "内自定义的path路径
-    headers:
-      Host: cf.mengxiao3.top	                      	#host域名，与上面的servername一致
 
-#==============================（vless-ws-tls节点）
-- name: 007-Cloudflare                              	#可自定义名称
-  type: vless
-  server: speedtest2.mengxiao3.top                  	#解析的域名或者优选域名IP
-  port: 8443                                       	#自定义的端口
-  uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
-  udp: true
-  tls: true
-  network: ws
-  servername: cf.mengxiao3.top	                    	#sni域名，与下面的host一致
-  ws-opts:
-    path: "/?ed=2048"                              	#" "内自定义的path路径
-    headers:
-      Host: cf.mengxiao3.top	                      	#host域名，与上面的servername一致
-
-#==============================（vless-ws-tls节点）
-- name: 008-Cloudflare                              	#可自定义名称
-  type: vless
-  server: speedtest3.mengxiao3.top                  	#解析的域名或者优选域名IP
-  port: 8443                                       	#自定义的端口
-  uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
-  udp: true
-  tls: true
-  network: ws
-  servername: cf.mengxiao3.top	                    	#sni域名，与下面的host一致
-  ws-opts:
-    path: "/?ed=2048"                              	#" "内自定义的path路径
-    headers:
-      Host: cf.mengxiao3.top	                      	#host域名，与上面的servername一致
-
-#==============================（vless-ws-tls节点）
-- name: 009-Cloudflare                              	#可自定义名称
-  type: vless
-  server: speedtest4.mengxiao3.top                  	#解析的域名或者优选域名IP
-  port: 8443                                       	#自定义的端口
-  uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
-  udp: true
-  tls: true
-  network: ws
-  servername: cf.mengxiao3.top	                    	#sni域名，与下面的host一致
-  ws-opts:
-    path: "/?ed=2048"                              	#" "内自定义的path路径
-    headers:
-      Host: cf.mengxiao3.top	                      	#host域名，与上面的servername一致
-
-#==============================（vless-ws-tls节点）
-- name: 010-Cloudflare                              	#可自定义名称
-  type: vless
-  server: speedtest5.mengxiao3.top                  	#解析的域名或者优选域名IP
-  port: 8443                                       	#自定义的端口
-  uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
-  udp: true
-  tls: true
-  network: ws
-  servername: cf.mengxiao3.top	                    	#sni域名，与下面的host一致
-  ws-opts:
-    path: "/?ed=2048"                              	#" "内自定义的path路径
-    headers:
-      Host: cf.mengxiao3.top	                      	#host域名，与上面的servername一致
-
-#==============================（vless-ws-tls节点）
-- name: 001-JiChang                               	#可自定义名称
-  type: vless
-  server: www.visa.com                          	#解析的域名或者优选域名IP
-  port: 8443                                       	#自定义的端口
-  uuid: 1ead0bcd-5387-4eaa-a1c7-0f1e5d204e59       	#自定义的uuid
-  udp: true
-  tls: true
-  network: ws
-  servername: cf2.mengxiao3.top		                #sni域名，与下面的host一致
-  ws-opts:
-    path: "/?ed=2048"                              	#" "内自定义的path路径
-    headers:
-      Host: cf2.mengxiao3.top		                #host域名，与上面的servername一致
-
-#==============================（vless-ws-tls节点）
-- name: 001-zizifn-edgetunnel                       	#可自定义名称
-  type: vless
-  server: japan.com                     		#解析的域名或者优选域名IP
-  port: 8443                                       	#自定义的端口
-  uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
-  udp: true
-  tls: true
-  network: ws
-  servername: zizifn-edgetunnel.mengxiao3.top	      	#sni域名，与下面的host一致
-  ws-opts:
-    path: "/?ed=2048"                              	#" "内自定义的path路径
-    headers:
-      Host: zizifn-edgetunnel.mengxiao3.top	        #host域名，与上面的servername一致
-
-#==============================（vless-ws-tls节点）
-- name: 002-zizifn-edgetunnel                       	#可自定义名称
-  type: vless
-  server: www.whoer.net                          	#解析的域名或者优选域名IP
-  port: 8443                                       	#自定义的端口
-  uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
-  udp: true
-  tls: true
-  network: ws
-  servername: zizifn-edgetunnel.mengxiao3.top	      	#sni域名，与下面的host一致
-  ws-opts:
-    path: "/?ed=2048"                              	#" "内自定义的path路径
-    headers:
-      Host: zizifn-edgetunnel.mengxiao3.top	        #host域名，与上面的servername一致
-
-#==============================（vless-ws-tls节点）
-- name: 003-zizifn-edgetunnel                       	#可自定义名称
-  type: vless
-  server: ip.sb                    			#解析的域名或者优选域名IP
-  port: 8443                                       	#自定义的端口
-  uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
-  udp: true
-  tls: true
-  network: ws
-  servername: zizifn-edgetunnel.mengxiao3.top	      	#sni域名，与下面的host一致
-  ws-opts:
-    path: "/?ed=2048"                              	#" "内自定义的path路径
-    headers:
-      Host: zizifn-edgetunnel.mengxiao3.top	        #host域名，与上面的servername一致
-
-#==============================（vless-ws-tls节点）
-- name: 004-zizifn-edgetunnel                       	#可自定义名称
-  type: vless
-  server: time.is                     			#解析的域名或者优选域名IP
-  port: 8443                                       	#自定义的端口
-  uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
-  udp: true
-  tls: true
-  network: ws
-  servername: zizifn-edgetunnel.mengxiao3.top	      	#sni域名，与下面的host一致
-  ws-opts:
-    path: "/?ed=2048"                              	#" "内自定义的path路径
-    headers:
-      Host: zizifn-edgetunnel.mengxiao3.top	        #host域名，与上面的servername一致
-
-#==============================（vless-ws-tls节点）
-- name: 005-zizifn-edgetunnel                       	#可自定义名称
-  type: vless
-  server: singapore.com                              	#解析的域名或者优选域名IP
-  port: 8443                                       	#自定义的端口
-  uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
-  udp: true
-  tls: true
-  network: ws
-  servername: zizifn-edgetunnel.mengxiao3.top	      	#sni域名，与下面的host一致
-  ws-opts:
-    path: "/?ed=2048"                              	#" "内自定义的path路径
-    headers:
-      Host: zizifn-edgetunnel.mengxiao3.top	        #host域名，与上面的servername一致
 
 #（三区）==============================（代理分流）
 #分流组可自行创建添加，proxies参数下的name节点名称，按需求自行增减，确保出现的name节点名称在二区代理协议中可查找
@@ -423,56 +246,32 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - CeSu1
-      - CeSu2
-      - CeSu3
-      - CeSu4
+      - cesu
+      - speed
+      - JiChang
+      - zizifn-edgetunnel
+      - warp-wireguard节点
       - 001-Cloudflare
       - 002-Cloudflare
       - 003-Cloudflare
       - 004-Cloudflare
       - 005-Cloudflare
-      - 006-Cloudflare
-      - 007-Cloudflare
-      - 008-Cloudflare
-      - 009-Cloudflare
-      - 010-Cloudflare
-      - 001-JiChang
-      - 001-zizifn-edgetunnel
-      - 002-zizifn-edgetunnel
-      - 003-zizifn-edgetunnel
-      - 004-zizifn-edgetunnel 
-      - 005-zizifn-edgetunnel
-      - warp-wireguard节点
-      - speed
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - CeSu1
-      - CeSu2
-      - CeSu3
-      - CeSu4
+      - cesu
+      - speed
+      - JiChang
+      - zizifn-edgetunnel
+      - warp-wireguard节点
       - 001-Cloudflare
       - 002-Cloudflare
       - 003-Cloudflare
       - 004-Cloudflare
       - 005-Cloudflare
-      - 006-Cloudflare
-      - 007-Cloudflare
-      - 008-Cloudflare
-      - 009-Cloudflare
-      - 010-Cloudflare
-      - 001-JiChang
-      - 001-zizifn-edgetunnel
-      - 002-zizifn-edgetunnel
-      - 003-zizifn-edgetunnel
-      - 004-zizifn-edgetunnel 
-      - 005-zizifn-edgetunnel
-      - warp-wireguard节点
-      - speed
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -490,28 +289,16 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - CeSu1
-      - CeSu2
-      - CeSu3
-      - CeSu4
+      - cesu
+      - speed
+      - JiChang
+      - zizifn-edgetunnel
+      - warp-wireguard节点
       - 001-Cloudflare
       - 002-Cloudflare
       - 003-Cloudflare
       - 004-Cloudflare
       - 005-Cloudflare
-      - 006-Cloudflare
-      - 007-Cloudflare
-      - 008-Cloudflare
-      - 009-Cloudflare
-      - 010-Cloudflare
-      - 001-JiChang
-      - 001-zizifn-edgetunnel
-      - 002-zizifn-edgetunnel
-      - 003-zizifn-edgetunnel
-      - 004-zizifn-edgetunnel 
-      - 005-zizifn-edgetunnel
-      - warp-wireguard节点
-      - speed
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
