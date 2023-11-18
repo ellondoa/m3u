@@ -92,10 +92,10 @@ proxies:
 - name: cesu                              	#可自定义名称
   type: vless
   server: cesu.mengxiao3.top                  	#解析的域名或者优选域名IP
-  port: 8443                                       	#自定义的端口
+  port: 80                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
-  tls: true
+  tls: fault
   network: ws
   servername: cf.mengxiao3.top	                    	#sni域名，与下面的host一致
   ws-opts:
@@ -108,10 +108,10 @@ proxies:
 - name: speed                               	        #可自定义名称
   type: vless
   server: speed.mengxiao3.top                        	#解析的域名或者优选域名IP
-  port: 8443                                       	#自定义的端口
+  port: 80                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
-  tls: true
+  tls: fault
   network: ws
   servername: cf.mengxiao3.top	                    	#sni域名，与下面的host一致
   ws-opts:
@@ -124,10 +124,10 @@ proxies:
 - name: JiChang                               	#可自定义名称
   type: vless
   server: www.visa.com                          	#解析的域名或者优选域名IP
-  port: 8443                                       	#自定义的端口
+  port: 80                                       	#自定义的端口
   uuid: 1ead0bcd-5387-4eaa-a1c7-0f1e5d204e59       	#自定义的uuid
   udp: true
-  tls: true
+  tls: fault
   network: ws
   servername: cf2.mengxiao3.top		                #sni域名，与下面的host一致
   ws-opts:
@@ -139,10 +139,10 @@ proxies:
 - name: zizifn-edgetunnel                       	#可自定义名称
   type: vless
   server: japan.com                     		#解析的域名或者优选域名IP
-  port: 8443                                       	#自定义的端口
+  port: 80                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
-  tls: true
+  tls: fault
   network: ws
   servername: zizifn-edgetunnel.mengxiao3.top	      	#sni域名，与下面的host一致
   ws-opts:
@@ -165,10 +165,10 @@ proxies:
 - name: 001-Cloudflare                              	#可自定义名称
   type: vless
   server: www.ipchicken.com                          	#解析的域名或者优选域名IP
-  port: 8443                                       	#自定义的端口
+  port: 80                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
-  tls: true
+  tls: fault
   network: ws
   servername: cf.mengxiao3.top	                    	#sni域名，与下面的host一致
   ws-opts:
@@ -180,10 +180,10 @@ proxies:
 - name: 002-Cloudflare                              	#可自定义名称
   type: vless
   server: russia.com                          		#解析的域名或者优选域名IP
-  port: 8443                                       	#自定义的端口
+  port: 80                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
-  tls: true
+  tls: fault
   network: ws
   servername: cf.mengxiao3.top	                    	#sni域名，与下面的host一致
   ws-opts:
@@ -195,10 +195,10 @@ proxies:
 - name: 003-Cloudflare                              	#可自定义名称
   type: vless
   server: icook.tw                          		#解析的域名或者优选域名IP
-  port: 8443                                       	#自定义的端口
+  port: 80                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
-  tls: true
+  tls: fault
   network: ws
   servername: cf.mengxiao3.top	                    	#sni域名，与下面的host一致
   ws-opts:
@@ -210,10 +210,10 @@ proxies:
 - name: 004-Cloudflare                              	#可自定义名称
   type: vless
   server: www.hugedomains.com                          	#解析的域名或者优选域名IP
-  port: 8443                                       	#自定义的端口
+  port: 80                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
-  tls: true
+  tls: fault
   network: ws
   servername: cf.mengxiao3.top	                    	#sni域名，与下面的host一致
   ws-opts:
@@ -225,10 +225,10 @@ proxies:
 - name: 005-Cloudflare                              	#可自定义名称
   type: vless
   server: www.iplocation.net                          	#解析的域名或者优选域名IP
-  port: 8443                                       	#自定义的端口
+  port: 80                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
-  tls: true
+  tls: fault
   network: ws
   servername: cf.mengxiao3.top	                    	#sni域名，与下面的host一致
   ws-opts:
