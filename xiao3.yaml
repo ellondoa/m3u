@@ -305,7 +305,9 @@ rules:
   - DOMAIN-KEYWORD,v2rayssr,🚀 节点选择
   - DOMAIN-SUFFIX,workers.dev,🚀 节点选择
   - DOMAIN-SUFFIX,ghproxy.com,🚀 节点选择
-
+  - DOMAIN-KEYWORD,gitlab,🎯 全球直连
+  - DOMAIN-SUFFIX,gitlab.com,🎯 全球直连
+  - DOMAIN-SUFFIX,gitlab.io,🎯 全球直连
 #自定义规则===结束
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
@@ -2531,7 +2533,6 @@ rules:
   - IP-CIDR,54.226.0.0/15,🚀 节点选择,no-resolve
   - IP-CIDR,54.230.156.0/22,🚀 节点选择,no-resolve
   - DOMAIN-KEYWORD,uk-live,🚀 节点选择
-  - DOMAIN-KEYWORD,gitlab,🎯 全球直连
   - DOMAIN-SUFFIX,bbc.co,🚀 节点选择
   - DOMAIN-SUFFIX,bbc.com,🚀 节点选择
   - DOMAIN-SUFFIX,apache.org,🚀 节点选择
@@ -2539,8 +2540,6 @@ rules:
   - DOMAIN-SUFFIX,elastic.co,🚀 节点选择
   - DOMAIN-SUFFIX,elastic.com,🚀 节点选择
   - DOMAIN-SUFFIX,gcr.io,🚀 节点选择
-  - DOMAIN-SUFFIX,gitlab.com,🎯 全球直连
-  - DOMAIN-SUFFIX,gitlab.io,🎯 全球直连
   - DOMAIN-SUFFIX,jitpack.io,🚀 节点选择
   - DOMAIN-SUFFIX,maven.org,🚀 节点选择
   - DOMAIN-SUFFIX,medium.com,🚀 节点选择
