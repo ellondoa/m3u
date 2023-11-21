@@ -151,15 +151,15 @@ proxies:
       Host: zizifn-edgetunnel.mengxiao3.top	        #host域名，与上面的servername一致
 
 #==============================（warp-wireguard节点）  
-- name: warp-wireguard节点                                   #可自定义名称
-  type: wireguard         
-  server: 162.159.192.100                                    #可自定义优选对端IP，与下面port的端口相对应
-  port: 1387                                                 #可自定义优选对端IP，与上面server的IP相对应
-  ip: 172.16.0.2
-  ipv6: 2606:4700:190:814e:7de3:5ddb:9d3e:9359               #与private-key相对应，如删除本行，表示仅IPV4
-  public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
-  private-key: CH1GfK2BLS+CwJYX6BxPwCAfj53al9Iwr/Omu0CS828=  #获取private-key，私key
-  udp: true
+#- name: warp-wireguard节点                                   #可自定义名称
+#  type: wireguard         
+#  server: 162.159.192.100                                    #可自定义优选对端IP，与下面port的端口相对应
+#  port: 1387                                                 #可自定义优选对端IP，与上面server的IP相对应
+#  ip: 172.16.0.2
+#  ipv6: 2606:4700:190:814e:7de3:5ddb:9d3e:9359               #与private-key相对应，如删除本行，表示仅IPV4
+#  public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+#  private-key: CH1GfK2BLS+CwJYX6BxPwCAfj53al9Iwr/Omu0CS828=  #获取private-key，私key
+#  udp: true
 
 #==============================（vless-ws-tls节点）
 - name: 001-Cloudflare                              	#可自定义名称
@@ -250,7 +250,6 @@ proxy-groups:
       - speed
       - JiChang
       - zizifn-edgetunnel
-      - warp-wireguard节点
       - 001-Cloudflare
       - 002-Cloudflare
       - 003-Cloudflare
@@ -266,7 +265,6 @@ proxy-groups:
       - speed
       - JiChang
       - zizifn-edgetunnel
-      - warp-wireguard节点
       - 001-Cloudflare
       - 002-Cloudflare
       - 003-Cloudflare
@@ -293,7 +291,6 @@ proxy-groups:
       - speed
       - JiChang
       - zizifn-edgetunnel
-      - warp-wireguard节点
       - 001-Cloudflare
       - 002-Cloudflare
       - 003-Cloudflare
