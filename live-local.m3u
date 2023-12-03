@@ -1,9 +1,9 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,http://epg.51zmt.top:8000/e.xml.gz,https://epg.112114.xyz/pp.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="油管直播",TVBS Live
 http://192.168.31.99:35455/youtube/m_dhMSvUCIc
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="油管直播",TVBS 56
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TVBS新闻.png" group-title="油管直播",TVBS 56
 http://192.168.31.99:35455/youtube/YvdcZ_jpLXE
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="油管直播",TVBS新闻
 http://192.168.31.99:35455/youtube/2mCSYvcfhtc
@@ -39,9 +39,9 @@ http://192.168.31.99:35455/youtube/WHEPzbFA3hw
 http://192.168.31.99:35455/youtube/CKjSm5ZeehE
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="油管直播",三立海外
 http://192.168.31.99:35455/youtube/FoBfXvlOR6I
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",TaiwanPlus
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TaiwanPlus.png" group-title="油管直播",TaiwanPlus
 http://192.168.31.99:35455/youtube/dZp87qnWelE
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",镜新闻
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/镜新闻.png" group-title="油管直播",镜新闻
 http://192.168.31.99:35455/youtube/5n0y6b0Q25o
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/.png" group-title="油管直播",东京都-新宿
 http://192.168.31.99:35455/youtube/DjdUEyjx8GM
