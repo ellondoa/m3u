@@ -305,6 +305,16 @@ rules:
   - DOMAIN-KEYWORD,gitlab,🎯 全球直连
   - DOMAIN-SUFFIX,gitlab.com,🎯 全球直连
   - DOMAIN-SUFFIX,gitlab.io,🎯 全球直连
+  - DOMAIN-SUFFIX,aliyundrive.net,🎯 全球直连
+  - DOMAIN-SUFFIX,ys7.com,🎯 全球直连
+  - DOMAIN-KEYWORD,ys7,🎯 全球直连
+  - DOMAIN-KEYWORD,themoviedb,🚀 节点选择
+  - DOMAIN-KEYWORD,tmdb,🚀 节点选择
+  - DOMAIN-KEYWORD,imdb,🚀 节点选择
+# IP Testing
+  - IP-CIDR,1.0.0.1/32,🎯 全球直连,no-resolve
+  - IP-CIDR6,2606:4700:4700::1111/128,🎯 全球直连,no-resolve
+  - DOMAIN-SUFFIX,ipify.org,🚀 节点选择
 #自定义规则===结束
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
