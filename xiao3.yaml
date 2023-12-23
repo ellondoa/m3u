@@ -305,6 +305,7 @@ rules:
   - DOMAIN-KEYWORD,v2rayssr,🚀 节点选择
   - DOMAIN-SUFFIX,workers.dev,🚀 节点选择
   - DOMAIN-SUFFIX,ghproxy.com,🚀 节点选择
+  - DOMAIN-SUFFIX,iptvindex.com,🚀 节点选择
   - DOMAIN-KEYWORD,gitlab,🎯 全球直连
   - DOMAIN-SUFFIX,gitlab.com,🎯 全球直连
   - DOMAIN-SUFFIX,gitlab.io,🎯 全球直连
